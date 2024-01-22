@@ -7,10 +7,6 @@ Created on Mon Jan 22 13:45:22 2024
 from datasets import load_dataset
 
 
-# lets load and take a look at two samples from our 4394 sample dataset
-# legal_dataset = load_dataset("google_translated.json")
-
-
 import json
 import os
 
@@ -23,8 +19,8 @@ with open(json_path, 'r') as json_file:
     
 
 
-# print(legal_dataset)
-# print("-"*50)
+print(legal_dataset)
+print("-"*50)
 # print(legal_dataset['train'][0])
 # print("-"*50)
 # print(legal_dataset['train'][1])
