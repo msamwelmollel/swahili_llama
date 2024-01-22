@@ -19,8 +19,8 @@ with open(json_path, 'r') as json_file:
     
 
 
-print(legal_dataset)
+# print(legal_dataset)
 print("-"*50)
-# print(legal_dataset['train'][0])
+print(legal_dataset['train'][0])
 # print("-"*50)
 # print(legal_dataset['train'][1])
