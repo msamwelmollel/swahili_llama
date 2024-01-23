@@ -17,7 +17,7 @@ import together
 from datasets import load_dataset
 
 # Specify path to your JSON file
-json_path = os.path.join(os.getcwd(), 'google_translated.json')
+json_path = os.path.join(os.getcwd(), 'google_translated - Copy.json')
 
 # Open the JSON file and load it into a dict
 with open(json_path, 'r') as json_file:
@@ -64,6 +64,7 @@ data_list = []
 for sample in ourdataset:
 
     instruction_input_separator = random.choice([":", ": ", "\n", "\n\n", " "])
+    # instruction_input_separator = random.choice([":" ])
     input = sample['input'] if sample['input'] is not None else ""
     instruction = sample['instruction'] if sample['instruction'] is not None else ""
 
@@ -76,9 +77,13 @@ for sample in ourdataset:
         "text":training_sequence
     })
 
-print(len(data_list))
-print(data_list[0])
+
 
 
 # save the reformatted dataset locally
-together.Files.save_jsonl(data_list, "alcapa_dataset.jsonl")
+together.Files.save_jsonl(data_list, "Alpaca_Swahili_Dataset.jsonl")
+
+
+# check your data with your base model prompting type before uploading
+resp = together.Files.check(file="Alpaca_Swahili_Dataset.jsonl")
+print(resp['is_check_passed'])
