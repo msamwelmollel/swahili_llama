@@ -61,7 +61,7 @@ format_to_llama2_chat(
 
 data_list = []
 
-for sample in ourdataset:
+for sample in ourdataset[0:10000]:
 
     instruction_input_separator = random.choice([":", ": ", "\n", "\n\n", " "])
     # instruction_input_separator = random.choice([":" ])
@@ -86,4 +86,11 @@ together.Files.save_jsonl(data_list, "Alpaca_Swahili_Dataset.jsonl")
 
 # check your data with your base model prompting type before uploading
 resp = together.Files.check(file="Alpaca_Swahili_Dataset.jsonl")
-print(resp['is_check_passed'])
+print(resp)
+
+
+# upload your dataset file to together and save the file-id, youll need it to start your finetuning run
+file_resp = together.Files.upload(file="Alpaca_Swahili_Dataset.jsonl")
+file_id = file_resp["id"]
+print("-"*50)
+print(file_resp)
