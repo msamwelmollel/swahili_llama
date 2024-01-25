@@ -16,6 +16,17 @@ import random
 import together
 from datasets import load_dataset
 
+WANDB_API_KEY= "50a4ae3d3476d2fa831569e4d22bfec32200130f"
+
+
+# WANDB_API_KEY = None # replace None with your weights and Biases API key (optional)
+
+
+# lets use our base model to see how it works before we finetune it
+
+base_model_name = "togethercomputer/Llama-2-7B-32K-Instruct"
+#base_model_name = "togethercomputer/llama-2-7b-chat"
+
 # Specify path to your JSON file
 json_path = os.path.join(os.getcwd(), 'google_translated - Copy.json')
 
@@ -94,3 +105,28 @@ file_resp = together.Files.upload(file="Alpaca_Swahili_Dataset.jsonl")
 file_id = file_resp["id"]
 print("-"*50)
 print(file_resp)
+
+
+# Submit your finetune job
+ft_resp = together.Finetune.create(
+  training_file = file_id ,
+  model = base_model_name,
+  n_epochs = 1,
+  batch_size = 4,
+  n_checkpoints = 1,
+  learning_rate = 5e-5,
+  wandb_api_key = WANDB_API_KEY,
+  #estimate_price = True,
+  suffix = 'law',
+)
+
+fine_tune_id = ft_resp['id']
+print(ft_resp)
+
+
+# run this from time to time to check on the status of your job
+print(together.Finetune.retrieve(fine_tune_id=fine_tune_id)) # retrieves information on finetune event
+print("-"*50)
+print(together.Finetune.get_job_status(fine_tune_id=fine_tune_id)) # pending, running, completed
+print(together.Finetune.is_final_model_available(fine_tune_id=fine_tune_id)) # True, False
+print(together.Finetune.get_checkpoints(fine_tune_id=fine_tune_id)) # list of checkpoints
