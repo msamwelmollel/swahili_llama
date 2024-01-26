@@ -71,8 +71,8 @@ swahili_llama_tokenizer = LlamaTokenizer.from_pretrained(output_hf_dir)
 print(tokenizer.all_special_tokens)
 print(tokenizer.all_special_ids)
 print(tokenizer.special_tokens_map)
-text = """கோப்பையை உறுதி செய்யுமா இந்தியா?
-Can India secure the World Cup trophy?"""
+text = """Je Tanzania inaweza kuchukua kombe la mataifa ya Africa?
+Can Tanzania secure the CAF Cup trophy?"""
 print("Test text:\n", text)
 llama_tokenized = llama_tokenizer.tokenize(text)
 swahili_llama_tokenized = swahili_llama_tokenizer.tokenize(text)
