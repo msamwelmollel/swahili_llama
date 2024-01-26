@@ -15,7 +15,7 @@ class SentencePieceTrainer:
     def __init__(self):
         self.corpus_dir = "./corpus"
         self.output_dir = "./models"
-        self.model_prefix = "tamil_sp"
+        self.model_prefix = "swahili_sp"
         self.vocab_size = 20000
         self.character_coverage = 1.0
         self.model_type = "unigram"
