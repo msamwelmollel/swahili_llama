@@ -5,6 +5,10 @@ Created on Thu Jan 25 23:47:46 2024
 @author: msamwelmollel
 """
 
+
+
+#another swahili dataset {from datasets import load_dataset     dataset = load_dataset("swahili")}
+
 import argparse
 import logging
 import os

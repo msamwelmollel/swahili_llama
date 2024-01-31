@@ -1,0 +1,1120 @@
+1	10.Inakuwaje pale muda wa matumizi wa pindua uniti umefika mwisho?
+2	10. Je mteja anaweza kuwanunulia marafiki au wenzi wao vifurushi vya Cheka Bombastik/Cheka Zogo?
+3	10.Je mteja atajiondoaje kwenye huduma ya SOKA LETU?
+4	10.Je, mteja atajuaje kama fedha zimetumwa kwa M-Pesa Kenya?
+5	10.Je, mtu anaweza kutumia huduma za M-Pesa wakati SIM kadi yake haufanyi kazi?
+6	10.Je ni hatua gani mteja anatakiwa kufanya akipata tatizo kwenye Aplikesheni ya Vodacom?
+7	10.Je nini kitatokea kama mteja hatabonyeza kuchagua sauti?
+8	10.Je vifurushi vya RED ni vipi?
+9	10.Upi ni muda wa matumizi wa vifurushi vya Kwese vya saa, siku, wiki na mwezi?
+10	11.Je, kunatofauti gani kati ya Mteja wa M-Pesa aliyesajiliwa na asiyesajiliwa?
+11	11.Je mteja anaweza kununua kifurushi zaidi ya mara moja?
+12	11.Je mteja atapoteza pointi zake kama akiamua kujiondoa?
+13	11.Je naweza nunua na kufurahia huduma za bidhaa zingine ukiwa na pindua uniti?
+14	11.Je, ni sarafu gani ya pesa itapokelewa?
+15	11.Je wateja wanaweza kubadili sauti kwenda sauti nyingine wakati wanaongea na marafiki?
+16	11.Je, wateja wanaweza kutofautisha programu halisi ya M-Pesa kutoka programu ya bandia?
+17	11.Vifurushi vya nyongeza vya RED ni vipi?
+18	12.Ikiwa nimebadilisha kadi yangu ya SIM, naweza kutumia SIM kadi mpya kufikia programu au nitahitaji kujiandikisha tena?
+19	12.Je mteja anawezesha kurudisha tena mlio aliochagua awali wakati anaongea na rafiki?
+20	12.Je ninaweza kununua vifurushi vya nyongeza vya RED bila kujiunga na vifurushi vya RED?
+21	13.Je mteja anaweza kutumia vifurushi vya intaneti kuangalia Kwese TV?
+22	13.Je naweza kuwapigia marafiki wanaotumia mitandao mingine nikitumia sauti niliobadili?
+23	13.Je nini kitatokea kama dakika,SMS na MB zitaisha kabla ya kifurushi cha RED kuisha?
+24	13.Kuna gharama gani kwa kutumia huduma hii?
+25	14.Je!, M-Pesa App Inaweza kupatikana simu zingine?
+26	14.Ni lugha zipi zinazokubalika na huduma?
+27	15.Je ninaweza kununua kifurushi kingine wakati nina vifurushi vya RED?
+28	15.Je sauti zinaweza kubadilishwa kuwa maalum kama za watu mashuhuri?
+29	15.Ujumbe gani watapata wateja ikiwa hawawezi kupakua programu kutokana na uwezo wa simu?
+30	16.Je ni lazima kuwezesha huduma ya kujirudia ya RED kabla ya kujiunga na kifurushi cha RED?
+31	16.Je ni namna gani wateja wanaweza kujiondoa kwenye huduma?
+32	16.Ninaweza kupakua programu kwa kutumia WIFI?
+33	17.Je naweza kusitisha huduma ya kujirudia pale nitakapoiwezesha?
+34	18.Je ninaweza kununua kifurushi cha RED popote pale Tanzania?
+35	19.Kama sijawezesha huduma ya kujirudia ya RED, je ninaweza kununua kifurushi kama hicho cha RED?
+36	1.Aplikesheni ya Vodacom ni nini?
+37	1. Baada ya kutembelea tovuti letu leo, ni kwa kiasi gani unaweza kuupendekeza mtandao wa Vodacom kwa ndugu au jamaa?
+38	1. Bando la SMS ni nini?
+39	1.Faida ya M-Pesa ni nini?
+40	1.Hii ni huduma gani?
+41	1.Huduma hii ni nini?
+42	1.Huduma ya malipo kwa njia M-Pesa ni nini?
+43	1.Je ni namna gani mteja atajiunga na Huduma ya SOKA LETU?
+44	1. Je ni namna gani mteja ataweza kutumia huduma?
+45	1. Kampeni ya miaka kumi ya M-Pesa ni nini?
+46	1. Kwa namna ulivyotembelea tovuti yetu leo, je unaweza kuipendekeza Vodafone kwa ndugu jamaa na rafiki zako? 2. Je, umefanikiwa kukamilisha ulichokusudia leo?
+47	1.Lipa Kwa M-Pesa ni nini?
+48	1.M-Pesa kwenda Bank ni huduma gani?
+49	1.Mteja anapaswa kufanya nini ikiwa kaamisha fedha kwenda kwa mpokeaji asiyekusudiwa?
+50	1.Mteja wa M-Pesa anawezaje kupata fedha kupitia Moneygram?
+51	1. Nani anastahili kutumia M-Pesa Mastercard?
+52	1.Nini maana ya vifurushi hivi?
+53	1. Ofa hii ni hadi kuisha kwa bidhaa.
+54	1. Ofa za Ya Kwako 2 ni nini?
+55	1.Programu ya M-Pesa ni nini?
+56	1. TUZO Pointi ni nini?
+57	1. Vifurushi vya Cheka Bombastik ni nini?
+58	1. Ya Kwako Tu ni huduma inayowapatia wateja wa malipo ya awali wa Vodacom ofa za Vifurushi vya kupiga simu, Intaneti au SMS kwa gharama nafuu kabisa kulingana na tabia za matumizi binafsi ya kila mteja.
+59	20.Huduma ya kujirudia itafanyaje kazi pale kifurushi kiatapoisha muda wa matumizi?
+60	22.Je nini kitatokea kama sina kiasi cha kutosha kwenye salio kwa ajili kuwezesha kujirudia kwa kifurushi?
+61	23.Je nini kitatokea kama hutajiunga tena na kifurushi cha RED pale kinapoisha muda wa matumizi?
+62	24.Je naweza kununulia rafiki kifurushi cha RED?
+63	25.Je nikimnunulia rafiki kifurushi cha RED na yeye atapata faida za ziada zitokanazo na RED?
+64	26 Januari 2019: Kampuni inayoongoza kwa mafanikio ya kidijitali Vodacom Tanzania Plc kwa kushirikiana na benki ya Posta Tanzania..
+65	26 Januari 2019: Kampuni inayoongoza kwa mafanikio ya kidijitali Vodacom Tanzania Plc kwa kushirikiana na benki ya Posta Tanzania wanajipanga kuanzisha huduma..
+66	26 Januari 2019: Kampuni inayoongoza kwa mafanikio ya kidijitali Vodacom Tanzania Plc kwa kushirikiana na benki ya Posta Tanzania wanajipanga kuanzisha huduma maalum kwa ya ajili kuweka na kutunza pesa itakayojulikana kama ‘Pamoja Group Saving’.
+67	26.Je ninaweza kupata huduma ya RED ninapokuwa nje ya nchi?
+68	2.Inawezekana kwa mteja wa Vodacom kutuma pesa kwa mitandao mingine akiwa nje ya mipaka ya Tanzania?
+69	2.Je, bidhaa hii inafanyaje kazi?
+70	2.Je Kuna ada za kutumia M-Pesa Mastercard?
+71	2. Je, mpokeaji anaweza kuomba kurudisha muamala kama amepokea kimakosa?
+72	2.Je, mteja atajuaje "LIPA NUMBER" ya mfanyabiashara anayependa kulipa?
+73	2.Je, ninahitaji kuwa na akaunti ya benki?
+74	2.Je ni nani anastahili kujiunga hiduam ya SOKA LETU?
+75	2.Je ni upi ukubwa na gharama za vifurushi?
+76	2.Je vitu gani mteja atavipata kwenye Aplikesheni ya Vodacom?
+77	2.Je, wateja watapata sehemu yao?
+78	2. Kuna aina ngapi ya vifurushi vya Cheka Bombastik?
+79	2.Kuna tofauti gani kati ya Pindua uniti na vifurushi vya kawaida?
+80	2.Mteja anapaswa kufanya nini ikiwa amepokea fedha kutoka kwa mtumaji asiyejulikana / kimakosa?
+81	2.Nani anaweza kupokea fedha kupitia Moneygram?
+82	2.Ninajisajilije kwa huduma za benki kwenye simu ya mkononi?
+83	2.Ni nani anaweza kutumia huduma?
+84	2.Nini faida za kutumia 4G?
+85	2.Nini kifanyike kama mteja amefuta SMS yenye PIN namba kianzio?
+86	2.Ni simu gani ambazo zinapokea huduma ya M-Pesa App?
+87	2. Ofa zinaweza kubadilika muda wowote bila taarifa.
+88	2. Zawadi gani hutolewa kwenye hii kampeni?
+89	3.1.3 Kuwa na umri wa miaka 18 (kumi na nane) au Zaidi.
+90	3.Huduma ya malipo kupitia Wakala ni nini?
+91	3.Je huduma hii ni wateja gani wanaweza kuipata?
+92	3.Je, itachukua muda gani kwa M-PESA kuchakata malipo yangu?
+93	3.Je kuna kikomo cha pesa ninazoweza kuweka kwenye kadi yangu?
+94	3.Je, Moneygram inafanya kazi ya huduma ya M-Pesa?
+95	3. Je, ni kwa kiasi gani umeridhika na msaada uliopata kupitia tovuti ya Vodafone? 4. Je, ni kwa kiasi gani umeridhika ulipotumia tovuti ya Vodafone?
+96	3.Je ni namna gani wateja watajiunga na huduma?
+97	3.Je, ninaweza kutumia muda wangu wa hewani wa Vodacom kwenda kwenye akaunti yangu ya M-Pesa?
+98	3.Je ni tofauti gani kati ya kujirudia na mara moja?
+99	3.Je! ni toleo lipi la OS/IOS linaruhusu programu ya M-Pesa kupakua?
+100	3.kuna gharama gani kwa huduma hii?
+101	3.kuna gharama gani kwenye huduma hii?
+102	3.Kuna gharama gani kwenye huduma hii?
+103	3. Mteja akiomba mkopo atazozwa gharama ipi?
+104	3.Namna gani wateja wataweza kununua vifurushi?
+105	3.Nani anastahili kupata huduma ya 4G?
+106	3.Ni aina gani ya tahadhari lazima wateja wawenazo wakati wa kutumia M-Pesa?
+107	3.Ninawezaje kutumia simu ya mkononi kufanya miamala kwenye akaunti yangu ya benki?
+108	3.Nitapata nini kwa kujiunga na Huduma ya SOKA LETU?
+109	3. Ni wateja gani wanaweza kutumia Cheka Bombastik?
+110	3. Ntafanyaje ili niweze kushinda?
+111	3. Rangi za simu kwenye matangazo zinaweza kuwa tofauti na zilizopo madukani.
+112	3. Wateja wa aina gani wanaweza kununua vifurushi vya SMS?
+113	3. Wateja wa aina gani wanaweza kupata Ofa Maalum?
+114	4.1.1.1 Ili kuingia kwenye promosheni kama mshiriki wa bure “wa zawadi ya kwanza ya papo hapo”, mshiriki anaweza kununua bando lolote kati ya bando zilizopo na bando maalumu zinazotoa nafasi ya ushiriki/kuingia kwenye droo.
+115	4.1.1.2 Baada ya kujiunga na bando hilo na kila SMS inayotumwa baada ya hapo, mshiriki atapokea SMS mbili kama majibu kwa kila SMS atakayotuma kwenda kwenye namba ya husika.
+116	4.3 Kujiunga katikw promosheni kwa kutumia vifaa kama (dongo,vifaa vya telemetry n.k) au mashine hairuhusiwi na endapo mshiriki atatumia vifaa hivyo hatakua na haki ya kushinda zawadi.
+117	4.4 Droo za bahati nasibu zitafanyika kila siku kama ratiba ya zawadi ilivyopangwa.
+118	4.5 Washindi watataarifiwa kupitia njia ya simu na promota au wakala wenye mamlaka baada tu ya droo hizo kumalizika.
+119	4. Bei zote zimejumuishwa na VAT.
+120	4.Je Aplikesheni ya Vodacom inakubali mfumo gani wa simu?
+121	4. Je huduma inafanyaje kazi?
+122	4.Je kuna faida yoyote mteja akiwezesha kifurushi cha kujirudia?
+123	4.Je kuna gharama ya kutumia Aplikesheni ya Kwese TV?
+124	4.Je, kuna malipo/ada gani zipo kwa huduma ya Moneygram?
+125	4.Je, kuna malipo gani ya M-Pesa kwa ajili ya miamala inayorejeshwa?
+126	4. Je mteja anaweza kukopa zaidi ya mara moja akiwa ajafikisha ukomo wa mkopo na kulipa kidogo kidogo?
+127	4. Je ni vipi vifurushi vya Cheka Bombastik na Cheka Zogo?
+128	4.Je wateja wanawezaje kuona salio la kifurushi cha intaneti?
+129	4.Jinsi ya kujiunga na Pindua units?
+130	4.Kuna gharama gani kutumia huduma ya LIPA KWA M-PESA?
+131	4.Mteja wa Vodacom ni jinsi gani hutoa pesa gani inayopokelewa kutoka Tigo Pesa au Airtel Money?
+132	4. Natumiaje TUZO pointi zangu?
+133	4.Ni faida gani za M-Pesa?
+134	4.Ni faida zipi mteja anapata akiwa kwenye huduma ya SOKA LETU?
+135	4.Ni gharama gani ya kupata huduma ya simu benki?
+136	4.Ninaweza kutoa PIN yangu kwa watu ambao wananisaidia?
+137	4.Nini kitatokea ikiwa sitapakua programu toleo jipya?
+138	4. Nitarudishiwa vipi pesa endapo sitapata bidhaa nilizonunua kwa M-Pesa Mastercard?
+139	4. Ntaangaliaje pointi zangu?
+140	4. Ofa gani znapatikana ndani Ofa za Ya Kwako 2?
+141	4. Vodacom Tanzania ina ruhusa ya kubadili au kuondoa Ofa za Ya Kwako Tu kwa mteja yeyote wakati wowote bila taarifa yoyote ya awali kwa mteja.
+142	5.2.8, Utakuwa, pamoja na kulipa kiasi kisicholipwa kwa wakati Mkopo na ada yoyote ya mchakato, Huduma, kulipa kwa Benki malipo ya ziada ya 9% ya kiasi chote kisicholipwa kwa wakati kwa minajili ya Mkopo ("Ada ya Malipo yaliyochelewa”).
+143	5. Bei zinaweza kubadilika kutokana na viwango vya mabadiliko ya fedha za kigeni.
+144	5.Je, mteja anapaswa kufanya nini ikiwa marejesho yamegomewa na mpokeaji au tunashindwa kutokana na fedha kuwa haitoshi au yametumika?
+145	5. Je mteja anaweza kutumia huduma kama hajasajiliwa?
+146	5.Je mteja atawezaje kutumia dakika 5 za voda-voda atakazopewa?
+147	5.Je mteja atumie njia gani kujua mfumo wa simu yake?
+148	5. Je nawezaje kuangalia salio la pointi zangu?
+149	5.Je ni nanma gani naweza kujiunga na kifurushi cha RED?
+150	5.Je ni zipi kanuni nyingine za vifurushi vya intaneti?
+151	5. Je ntajuaje kama nimeshinda?
+152	5. Je, tovuti yetu ni sehemu ya kwanza kutumia kwa ajili ya kufanikisha kusudi lako? 5.1.
+153	5.Je utagharamia kiasi gani kutumia huduma?
+154	5.Je, wateja watapata zaidi ikiwa wanafanya miamala zaidi?
+155	5.Katika nchi gani huduma ya kutuma fedha Moneygram kwenda M-Pesa inapatikana?
+156	5.Kuna vifurushi vingapi vya Pinduapindua, na je faida zake za ziada ni zipi na vifurushi vitaonekana vipi katika Icap?
+157	5.Mteja anapaswa kufanyaje endapo PIN yake ya Simu Benki imefungwa?
+158	5. Naweza kujiunga mara ngapi?
+159	5.Nifanye nini ikiwa nimesahau PIN yangu?
+160	5.Nina laini ya 4G lakini bado napata mawasiliano ya 3G?
+161	5. Ni namna gani wateja wanaweza kununua vifurushi vya Cheka Bombastik na Cheka Zogo?
+162	5. Utapokea ujumbe mfupi wenye namba ya kadi, namba ya CVV na tarehe ya mwisho ya matumizi ya kadi.
+163	6.2.3. ada nyingine zote, gharama na kodi, ushuru, faini na gharama zilizotokana kufuatana na maombi yako.
+164	6. Bei ya Bando la SMS ni kama ifutavyo.
+165	6. Je kipi ni kiwango cha juu cha mkopo ambacho mteja anaweza kukopa?
+166	6.Je, kuna kikomo cha mteja wa M-Pesa wakati wa kupokea fedha kutoka Moneygram?
+167	6.Je, Mawakala wa M-Pesa wanastahili kupata faida hii?
+168	6.Je, mteja anaweza kufanya nini ikiwa Vodacom haiwezi kutatua malalamiko?
+169	6.Je, mteja asiyesajiliwa anaweza kupokea pesa kupitia mchakato huu?
+170	6.Je mteja atawezaji kumpigia kura mchezaji bora na kushinda?
+171	6.Je nawezaje kununua vifurushi vya Kwese?
+172	6.Je ni mteja atafuata taratibu zipi kuanza matumizi ya Aplikesheni ya Vodacom?
+173	6.Je nini kitatokea kama sitakuwa na salio la Tsh99 kwenye simu yangu?
+174	6.Je, wateja watatambuliwa vipengele vipya kwenye programu?
+175	6.Mchanganuo wa matumizi ni kama ifuatavyo?
+176	6. Naweza kujiunga mara ngapi?
+177	6.Ni faida zipi utapata kwa kujiunga na kifurushi cha RED?
+178	6.Nifanye nini ikiwa nimetoa PIN yangu kwa mtu kimakosa au ninahisi kwamba mtu ameijua PIN yangu?
+179	6. Ni kwa muda gani naweza kutunza pointi zangu?
+180	6. Ni namna gani wateja wataangalia salio la vifurushi?
+181	7. Je inawezekana kununua kifurushi zaidi ya kimoja kwa siku?
+182	7.Je kuna malipo yoyote kwenye matumizi ya Aplikesheni ya Vodacom?
+183	7. Je kuna ukomo wa kiwango cha mteja kukusanya pointi?
+184	7.Je mteja akijiunga na Pinduapindua kipaumbele katika matumizi itakuaje kati ya uniti na zile huduma za ziada za bure?
+185	7.Je mteja atagharamia kiasi gani kwa kujiunga na huduma ya SOKA LETU?
+186	7.Je ni namna gani mteja atajua kuwa yeye amejiunga na RED au hajajiunga?
+187	7.Je unatakiwa kuwa na simu maalum ili utumie huduma hii?
+188	7.Je, wateja wanaweza kutuma pesa kwa wateja wasiosajiliwa na M-Pesa?
+189	7.Kwa simu za laini mbili, laini gani inafanya kazi vizuri?
+190	7.Ninapopakua OS mpya kwenye simu yangu, je, ninahitaji kupakua programu pia?
+191	7.Nitafanyaje kuiwezesha akaunti yangu ya M-Pesa?
+192	7. Wateja wanawezaje kuangalia ukomo wa mkopo?
+193	8.Je! gharama ya data itatumika wakati wa kutumia programu?
+194	8.Je! kipi ni kiwango cha chini na kiwango cha juu cha Mihanala ya kila siku?
+195	8.Je mteja atagharamia kiasi gani kutumia huduma hii?
+196	8. Je mteja ataruhusiwa kununua huduma nyingine wapo kwenye vifurushi vya Cheka Bombastik?
+197	8.Je naweza kupata faida zinatokazo na RED bila kujiunga na kifurushi cha RED?
+198	8.Je naweza kutumia vifurushi vya Kwese kwa matumizi ya intaneti?
+199	8. Je nikiongeza salio zaidi ya shilingi elfu 10000 napata pointi ngapi?
+200	8.Je, nini maana ya kuhamisha fedha kimataifa (yaani: IMT) na Safaricom M-Pesa Kenya?
+201	8. Je ukubwa na gharama za vifurushi vya 4G ni zipi?
+202	8.Je wateja wote wa Vodacom wanaweza kutumia Aplikesheni ya Vodacom?
+203	8.Nani anastahili kupta zawadi mbalimbali za SOKA LETU?
+204	8. Wateja wanawezaje kuangalia salio la mkopo?
+205	9.10 Promota ataomba ridhaa ya washindi kuweka kwa maandishi kwamba wamekubali majina,sura na picha zao kutumika na kuchapishwa na promota kuhusiana na promosheni hii kwa kipindi cha miezi 12 baada ya kutangazwa kama mshindi.
+206	9.11 Kwa kushiriki katika Promosheni hii, washiriki wanakubali kwa ridhaa yao kuongozwa na vigezo na masharti kama ilivyoainishwa.
+207	9.12 Kwa kushiriki katika Promosheni hii washiriki wote wanatoa ridhaa yao ya kupokea matangazo mbalimbali kuhusu promosheni kutoka kwa promota.
+208	9.4 Washindi watapigiwa simu na/au kutumiwa barua pepe kulingana na njia ya mawasiliano iliyotolewa na mshindi pindi alivyojiunga na shindano hili.
+209	9.5 Zawadi haiwezi kuhamishwa wala kubadilishwa na zawadi nyingine.
+210	9.6 Uamuzi wa Promota kuhusiana na migogoro inayojitokeza kuhusiana na hii promosheni itashughulikiwa na promota kufuata vigezo na masharti ya promosheni hii kama yalivyoainishwa.
+211	9.7 Washindi wana haki ya kushinda zawadi 1 (moja)tu kila kwenye kila mzunguko wa droo.
+212	9.8 Promota ana haki ya kushikilia zawadi mpaka atakaporidhika kwamba mdai wa zawadi hiyo ndiye mshindi sahihi na pia ana haki ya kuomba ushahidi pale itapobidi.
+213	9.9 Wakati wowote utawajibika kwa miamala yoyote iliyofanywa kwenda au kutoka kwa Akaunti zako, na unahakikishia unajua kwamba miamala ya M-Pawa hazirekebishwi/hazirejeshwi.
+214	9.Inakuwaje pale ambapo Pindua uniti zikaisha kabla ya muda wake?
+215	9.Je, kuna sheria gani za IMT na M-Pesa Kenya?
+216	9.Je, M-Pesa hufanya kazi kwenye mitandao yote?
+217	9.Je mteja anaweza kubadili lugha ya namba yake kwa kutumia Aplikesheni ya Vodacom?
+218	9.Je mteja atapataje taarifa zaidi za huduma ya SOKA LETU?
+219	9.Je nitapata faida za RED pale vifurushi vya RED vitakakwisha muda wa matumizi?
+220	9. Je ni umuhimu upi unapewa kwenye matumizi mteja napokuwa na huduma nyingine za maongezi, SMS na huduma ya intaneti?
+221	9.Je wateja wote wanastahili kutumia vifurushi vya Kwese?
+222	9.Nitaweza kutumia programu ya M-Pesa nje ya nchi?
+223	9.Ni wakati gani mteja ataanza kugharamia huduma?
+224	Ada pekee ni zile za malipo kwenye mitandao tu.
+225	Ada ya miamala inayolipwa Vodacom ni kutokana na miamala inayofanyika hususani kwenye Akaunti yako ya M-PESA mara kwa mara Ada hizo zitatumika kwa miamala yoyote iliyofanyika kuhusiana na Akaunti yako ya M-Pawa kwa kutumia mfumo wa M-PESA.
+226	Ada ya M-Pesa inategemea na aina ya miamala inayofanyika.
+227	A.E), Kenya, Uganda, Somalia, Jamhuri ya Kidemokrasia ya Congo na Sudan Kusini.
+228	Akaunti ya M-Pesa iliosajiliwa Vitambulisho kama Pasi ya kusafiria ya Tanzania, kitambulisho cha Taifa, kitambulisho cha Kura, leseni ya udereva, kitambulisho cha kazi na barua kutoka Serikali za Mitaa.
+229	Akizungumza wakati wa uzinduzi wa huduma hiyo, Mkurugenzi Mtendaji wa Vodacom Bw.
+230	Aliongeza kwamba Vodacom imedhamiria kufikia idadi kubwa ya watu ambao hawapo kwenye mifumo rasmi ya kifedha, kuchochea ujumuishwaji, na uwezeshaji kupitia huduma hii rafiki, salama na yenye uwazi wa hali ya juu.
+231	Angalia nambari ya mpokeaji kwa makini na kamilisha kwa kuchagua 1 ili kuthibitisha au 2 kufuta.
+232	Angalia na Sikiliza mafundisho mbalimbali kutoka kwa Mufti wa Tanzania na Masheikh mbalimbali.
+233	Anza kuburudika kwa kuweka Muito kwa Wakupigiao!
+234	Aplikesheni ya Vodacom ni nini?
+235	Aplikesheni zenye miongozo zitawawezesha wafanyakazi walio shambani kukusanya taarifa na zana zinazowawezesha kufanya maamuzi hata katika mazingira yasio na mawasiliano mazuri.
+236	A. Vigezo na masharti yanayofuata yana dhana ya kuweka au kuondoa ukomo wa wajibu, haki au majukumu ya kisheria ambayo kampuni ya Vodacom (“Vodacom”) ambayo hapa inajulikana kama (“Promota”) itakua nayo dhidi yako na watu wengine.
+237	Baada ya hapo mteja atatozwa gharama ya Tsh 100 kwa siku itatozwa.
+238	Baada ya hapo simu itaunganishwa na mteja ataweza kuzungumza na rafiki akitumia sauti aliyobadili.
+239	Baada ya kujisajili, mteja hujishindia dakika tano za maongezi ndani ya mtandao wa Vodacom.
+240	Baada ya kukubali, utapokea SMS ikikujulisha kuwa ombi lako la M-Pawa limepokelewa na liatshughulikiwa hivi punde.
+241	Baada ya siku 21, kama hujajisajili muamala utakwisha muda wake na fedha zinarudi Moneygram.
+242	Baada ya usajili, mteja anaweza piga simu ndani ya mtandao wa Vodacom kwa dakika tano bila malipo.
+243	Bando la SMS ni kifurushi kinachotoa SMS tu kwa matumizi ya siku/wiki au mwezi.
+244	Bando la SMS ni kwa ajili ya wateja wote wa Vodacom wa malipo ya awali.
+245	Bando zetu za mikataba inakupa muda wa kuongea kwa bei nafuu ikiwa ni kwa simu za hapa nchini au kimataifa.
+246	Benki haitashtakiwa kwa hasara au uharibifu wowote unaokusumbua wewe kutokana na kuunganishwa na: -
+247	Benki imeidhinishwa kutekeleza maagizo hayo kwa kuzingatia Akaunti yako ya M-Pawa ambayo inaweza kuhitajika na amri yoyote ya mahakama au mamlaka au shirika husika chini ya sheria zinazohusika.
+248	Benki ina haki kwa hiari yake pekee na bila kutoa sababu yoyote ya kuidhinisha au kusitisha maombi yako ya mkopo.
+249	Benki ina haki ya kubadilisha masharti ya Mkopo ikiwa ni pamoja na ada zinazolipwa kwa mara kwa mara kwa kuzingatia kanuni na sheria zilizopo za Benki ya Tanzania na sera za Benki.
+250	Benki ina haki ya kukataa maombi yako ya Akaunti ya M-Pawa au kusitisha/kufunga katika hatua yoyote kwa namna Benki inona inafaa kwa busara na bila kuainisha sababu yoyote.
+251	Benki ina haki ya kuomba taarifa zaidi kutoka kwako kuhusiana na maombi yako ya Akaunti ya M-Pawa wakati wowote.
+252	Benki ina haki ya kuthibitisha kwa Vodacom uhalali na hadhi ya Akaunti yako ya M-PESA.
+253	Benki inaweza kupeleka taarifa kuhusu Akaunti ya M-Pawa kupitia Ujumbe Mfupi wa Maandishi (SMS) kwenye Nambari ya Simu ya Mkono ya Vodacom inayohusishwa na Akaunti yako ya M-PESA.
+254	Benki itashikilia fedha zako katika Akaunti yako ya amana ya M-Pawa kama dhamana na usalama kwa kiasi chochote cha mkopo ulichoshindwa kulipa kwa wakati kulingana na akaunti yako ya Mkopo ya M-Pawa.
+255	Biashara zaidi ya 1000 hutoa huduma za malipo kwa wateja kupitia M-Pesa.
+256	Biashara zinakuwa na uwezo wa kuenea zaidi katika soko na kupunguza gharama wakiwa wanajenga biashara na wateja wao.
+257	Biashara zinazojiunga na M-Pesa kwa Biashara, kufanya malipo zaidi ya biashara 1,000 zinazotumia mtandao wa Vodacom.
+258	Biashara zinazojiunga na M-Pesa kwa Biashara sasa zinaweza kutuma malipo kufikia biashara zaidi ya 1,000 zilizopo na Vodacom.
+259	Bila kujiunga, mteja hataweza kutumia huduma.
+260	B. Kwakuwa vigezo na masharti au bidhaa au huduma zinazotolewa vinasimamiwa na sheria inayomlinda mtumiaji (“Sheria inayomlinda mtumiaji”), hivyo basi vigezo na masharti haya havitakinzana na sheria hiyo inayolenga kumlinda mtumiaji.
+261	Bofya hapa kuangalia Vodacom duka karibu yako na kupata mawasiliano kwa msaada zaidi!
+262	Bulk SMS ni njia rahisi nay a gharama nafuu ya kutuma ujumbe ufupi wa Maneno yaani SMS kwa watu wengi na kwa wakati mmoja.
+263	Bulk SMS ni njia ya kununua na kutuma SMS nyingi kwa ujumla.
+264	Chaguo la pili ni Vigezo na Masharti ambayo inakuelekeza kwenda www.cbagroup.com/M-Pawa au www.vodacom.co.tz. Ingiza PIN ya M-Pesa Ujumbe utatokea ukukitaka kujua kama umessoma na kukubali Vigezo na Masharti.
+265	Cheka Zogo – Hivi ni vifurushi vyenye dakika za kupiga simu (Vodacom kwenda Vodacom na mitandao mingine, mteja anaweza kuona aina tofauti ya Cheka zogo kutegemeana eneo alilopo.
+266	Cloud computing inakupa suluhu ya wakati ujao.
+267	Cloud computing inaondoa umuhimu wa taasisi yako kuweka na kusimamia taarifa ndani ya ofisi.
+268	Cloud Computing ni huduma inayowapa wateja wetu huduma ya miundombinu ya Komputa, yaani Infrastructure as a Service (IaaS) kwa njia ya matumizi ya kompyuta kupitia mtandao wa intaneti.
+269	ConnectedCar inaweza kutumika kupitia kompyuta au simu kwa urahisi zaidi.
+270	C. Tafadhali soma vigezo na masharti haya kwa umakini.
+271	Droo huchezeshwa kila jumanne kwa wiki kumi za kampeni kupata washindi tofauti.
+272	Droo ya wiki ya kwanza Washindi 10- Droo ya wateja.
+273	Duka la wafanyabiashara wote litaonyesha LIPA Namba zao mahali ambapo wateja wanaweza kuisoma kwa urahisi wakati wa kufanya malipo.
+274	Endapo mshiriki ataamua kutuma SMS mpya kwenda namba 15544, atachukuliwa tena kama mshiriki kwenye promosheni.
+275	Endapo utalipa kwa kadi na mfanyabiashara akashindwa kukupatia bidhaa, Piga simu Vodacom huduma kwa wateja utapewa maelekezo ya kufanya.
+276	Epuka utaratibu usio na manufaa wa kugawa kiasi kikubwa cha fedha kwenda kwa kundi kubwa la watu kwa wakati mmoja.
+277	"ETS"maana yake nimfumo wa miamala ya kielectroniki ya kibiashara iliyoanzishwa na kudumishwa na Vodacom ambayo inaruhusu taarifa ya wateja kuwa pamoja salama katika taasisi kwa ajili ya miradi ya maombi ya biashara.
+278	Faida hii inashirikisha wateja wa M-Pesa, Mawakala na Makampuni.
+279	Faida ya kila muhula wa robo mwaka inaweza kubadilika kulingana na marejesho ambayo M-Pesa imepata kutoka mabenki ya kibiashara.
+280	Faida za huduma ya Moneygram ni nini?
+281	Faida za kutumia Lipa kwa M-Pesa ni zipi?
+282	Fedha katika akaunti ya M-Pesa ni salama.
+283	Fedha katika akaunti ya M-Pesa ni salama ikiwa simu ya mkononi imepotezwa au kuibiwa?
+284	Fedha kutoka Tigo Pesa na Airtel Money huenda moja kwa moja kwenye akaunti ya Mteja wa M-Pesa, hivyo utaratibu wa kutoa pesa hutumika ule wa kawaida.
+285	Fedha yako inaifadhiwa kwa usalama katika akaunti ya benki inayoendeshwa na M-PESA kwa niaba yako.
+286	“Fedha za Kielektroniki” maana yake ni fedha za kielektroniki, thamani ya fedha ya kielektroniki inayoonyeshwa kwenye Akaunti yako ya M-PESA huwakilisha stahili ya kiasi sawa cha fedha taslimu.
+287	Fedha zilizotumwa kutoka Safaricom Kenya hadi Vodacom Tanzania zitawasilishwa kwa Shillingi za Kitanzania (TZS).
+288	Fedha zinazotumwa kutoka Vodacom Tanzania hadi Safaricom Kenya zitawasilishwa kwa Shilingi za Kenya (KSH).
+289	Fedha zitatoka kwenye akaunti ya 'M-Pesa FAIDA'
+290	“Fistula ni hali inayozuilika na kutibika hivyo inabidi tuidhibiti kabisa.
+291	Furahia huduma yetu ya malipo ya baada, kwa gharama nafuu kupiga simu ndani na nje ya nchi, na pia kuzuru duniani kote kwa bei ya punguzo.
+292	Furahia kasi ya mtandao yaani 1Mbps hadi 1Gbps.
+293	Gharama hii inategemea makato ya VAT yatapelekwa TRA.
+294	Gharama hii itategemea makato ya VAT yanayotakiwa kulipwa TRA.
+295	Gharama kwa dakika itakatwa kwa wateja wanaotumia huduma hii.
+296	Gharama kwenye huduma hii ni sawa na wakati wa kutoa pesa kwa Wakala yeyote wa M-Pesa.
+297	Gharama ni Tsh 100 kwa siku.
+298	Gharama ya huduma hii kiasi gani?
+299	Gharama ya kutuma fedha kutoka M-Pesa kwenda Benki ni kutokana na mkataba tulioingia na Benki yako.
+300	Gharama ya mkopo ni tofauti na itategemea kiasi mteja alichokopa na matumizi ya namba yake.
+301	Gharama ya ushauri ya 9% ya mkopo ndio hutozwa mara moja tu kwa kila mkopo ndani siku 30.
+302	Gharama za kawaida za M-Pesa zitatumika kwenye matumizi ya fedha.
+303	Gharama za kutuma pesa Kenya ni sawa na zile zinazotumika kutuma pesa nchini, hivyo kuifanya M-Pesa kuwa njia nafuu zaidi ya kutuma pesa Kenya.
+304	Gharama za matumizi ya RED ni za chini ukilinganisha na gharama za kawaida.
+305	Gharama zetu ni za chini kwa kuwa tuna matumizi sahihi ya umeme na gharama za mwezi zisizobadilika.
+306	Gharama zote ni kwa Tsh pamoja na kodi.
+307	Hafla hiyo ilihudhuriwa na wafanyakazi wa vituo vya afya na wadau mbalimbali kutoka ofisi za serikali.
+308	Hakika, sasa dunia ni soko mkononi mwako ukiwa na M-Pesa.
+309	Hakika ukiwa na Vodacom unaweza,” Aliongeza bi Lwakatare.
+310	Hakikisha PIN ni siri yako tu kunapunguza hatari ya matumizi yasiyoidhinishwa ya akaunti yako ya M-Pesa.
+311	Haki na marekebisho haya yanayotolewa ni nyongeza na sio uondoaji wa haki yoyote au ni marekebisho yatolewayo kisheria.
+312	Hakuna ada itakayo ingia kwenye M-Pesa ili kupokea fedha kupitia Moneygram.
+313	Hakuna ada zozote unapoweka pesa kwenye akaunti yako ya M-Pesa Mastercard au kuhamisha kutoka M-Pesa Mastercard kwenda kwenye akaunti kuu ya M-Pesa.
+314	Hakuna foleni: Hakuna haja ya mteja kukaa kwenye foleni kwenye benki kupata pesa.
+315	Hakuna gharama za malipo ya muamala kwa wateja na wafanyabiashara Mitandao yote na mabenki yameunganishwa na malipo ya M-Pesa Salama, sio nyingi na haina hatari.
+316	Hakuna gharama za ziada, hakuna kikomo cha kutoa pesa, hauna kiasi cha chini cha salio na hakuna gharama za kuhamisha salio kati akaunti za M-Pawa na M-Pesa.
+317	Hakuna kikomo cha kukusanya pointi, bali pointi zisipotumika ndani ya kipindi cha miezi 12 zitakwisha muda wake.
+318	Hakuna mabadiliko kwenye Akiba.
+319	Hakuna malipo ya mara kwa mara ambayo yanahusu tu kwa kuwa unamiliki na akaunti ya M-Pesa.
+320	Hakuna swali la usalama linalohitajika.
+321	Hamia kwenye mtandano wetu wa Vodacom ufurahie kasi ya juu popote ulipo.
+322	Hapana, akaunti yako ya M-Pesa inatofautiana kabisa na akaunti ya muda wa hewani wa Vodacom.
+323	Hapana, hakuna kiwango cha chini kinatchotakiwa wakati mteja anapokopa.
+324	Hapana, M-Pesa imetengenezwa hata wateja wasiokuwa na akaunti za benki waweze kuitumia.
+325	Hapana, PIN yako ya M-Pesa haihifadhiwa katika programu.
+326	Hapana, ukipakua OS mpya kwenye simu yako itawezeshwa na Programu ya zamani ya M-Pesa App.
+327	Hapa pia unatabua na kuidhinisha Benki hiyo ili kuthibitisha Taarifa zako binafsi zilizopatikana kutoka Vodacom kwa mujibu wa kifungu cha 4.3 dhidi ya habari iliyopatikana kutoka Vodacom Tanzania kama ilivyo katika ETS.
+328	Hasa, utahakikisha kuwa Huduma hazitumiwi au Maombi hayatolewa au miamala husika hazifanywi na mtu yeyote isipokuwa mtu aliyeidhinishwa kufanya hivyo.
+329	Hata hivyo, bado kuna mapungufu katika ujuzi wa kisayansi.
+330	Hata hivyo, gharama zilizotumika awali hazitorejeshwa.
+331	Hata hivyo, kusitishwa hakuathiri haki yoyote na madeni kwa pande yeyote.
+332	Hata hivyo unaweza kutumia salio lako la M-Pesa kujinunulia muda wa hewani kwenye simu yako mwenyewe au kwenye simu ya mteja mwingine wa Vodacom.
+333	Hatua za kufuata ni zipi?
+334	Hauruhusiwi kukiuka haki hizo.
+335	Hauruhusiwi, kuzalisha nakala au kwa njia yoyote kuitilafia Mfumo na nyaraka zinazohusiana bila idhini iliyotolewa na Benki.
+336	Hebu fikiria maisha ukiwa na kifurushi kimoja kwa matumizi yako kwa mwezi mzima huku ukipata huduma za haraka upigapo huduma kwa wateja na kupewa kipaumbele katika maduka yetu.
+337	Hifadhi kama inavyohainishwa katika kifungu cha 10.3 Benki haitawajibika kwa mwingiliano wowote wa mawasiliano au kutokuwepo kwa Huduma, kila inapotokea.
+338	Hii huduma ni kwa wateja wote wa malipo kabla(prepaid) na malipo baada (Postpaid).
+339	Hii hutokea moja kwa moja?
+340	Hii ilifungua zama mpya kuongeza kasi ya uwekezaji na utoaji wa huduma bora za mawasiliano kwa Watanzania.
+341	Hii imaana kwamba unaweza kubadili kadri uwezavyo muito wa simu yako na kuwapa Zawadi familia na marafiki.
+342	Hii inakuhakikishia kasi kubwa ya mtandao kwa biashara yako.
+343	Hii ina maana ana laini zaidi ya moja za Vodacom( kila akaunti moja ya M-Pawa inaunganishwa na laini moja ya simu).
+344	Hii inasababisha mawasiliano kwa wakulima, miamala na usimamizi wa taarifa kuwa mgumu na wenye gharama za juu.
+345	Hii itasaidia kuona kwa wakati taarifa za akiba ya madawa zitokanazo na dispensari.
+346	Hii itasaidia usimamizi na kuhakikisha akiba inaongezwa kwa haraka iwapo kuna upungufu.
+347	Hii itategemeana na uthibitisho wa taarifa zako.
+348	Hii itawezekana tu baada ya kuhamisha pesa kutoka akaunti ya M-Pawa kwenda M-Pesa, kishaa tuma kutoka M-Pesa kwenda benki ziliruhusiwa kwa huduma ya benki kwa kutumia simu.
+349	Hii ni huduma ambayo Wakala wa M-Pesa anaweza kufanya malipo kwenye kampuni kwa niaba ya mteja.
+350	Hii ni huduma inayokuwezesha mtumiaji wa M-Pesa kurudisha miamala uliyotuma au kupokea kimakosa.
+351	Hii ni huduma inayowawezesha wateja wa Vodacom (malipo ya kabla) kupata TUZO pointi kadri anavyoweka salio kwenye simu yake.
+352	Hii ni huduma ya bure inayotumia laini ya simu.
+353	Hii ni huduma ya kibenki kutoka Vodacom na CBA ambayo imeleta mapinduzi ya kumwezesha mteja kuhifadhi pesa kwenye simu, kupata riba kutokana na akiba na kupata mikopo unapoihitaji.
+354	Hii ni huduma ya kibenki kwenye simu kwa wateja waliojisajili na M-Pesa kwa ushirikiana na CBA.
+355	Hii ni kampeni inayoendeshwa na Vodacom Tanzania kwa ajili ya kusherehekea miaka 10 ya M-Pesa nchini Tanzania.
+356	Hii ni kutokana na washiriki wetu waliopo kote duniani.
+357	Hii ni pamoja na LUKU, Shule, Mashirika ya Ndege, Wauzaji wa Maji, Usajili wa TV na kadhalika.
+358	Hii ni sehemu ya nusu ya riba ambayo Vodacom italipa kwa Wateja wote wa M-Pesa, Mawakala na Wafanyabishara waM-Pesa.
+359	Hisham Hendi alisema "huduma hii ya kidijitali inalenga kutoa huduma endelevu ambayo itatumiwa na kufikia vikundi vilivyopo maeneo mbalimbali nchini kwa njia ya mtandao mkubwa wa Vodacom".
+360	Hivi ni vifurushi vya siku 7 vinavyoweza kununuliwa baada ya kifurushi kuisha.
+361	Hivi ni vifurushi vyenye dakika za kupiga simu( Vodacom kwenda Vodacom), SMS za ndani ya nchi na vifurushi vya intaneti.
+362	Hivyo jisni unavyozidi kutumia M-Pesa ndivyo unavyoweza kupata nafasi ya kuingia kwenye droo na kushinda.
+363	Hivyo mpango huu ulianzishwa na Vodacom Tanzania Foundation kama sehemu ya kuisaidia serikali kuboresha huduma za afya nchini na kupunguza vifo vitokanavyo na uzazi.
+364	Hizi tu ndizo taarifa unazohitaji kukamilisha malipo yako mtandaoni.
+365	Huduma hii haichagui lugha.
+366	Huduma hii hutumia njia ya usajili wa kila siku huku siku za kwanza 3 zikiwa ni bila malipo.
+367	Huduma hii ina faida gani?
+368	Huduma hii inaipa kampuni uwezo wa kuwafikia wateja wengi, kuokoa muda na gharama pia kuwezesha ufuatiliaji kwa kupata ripoti kwa muda ulioafikiwa.
+369	Huduma hii inaitwa M-KOBA.
+370	Huduma hii inakupa taarifa na ripoti kusimamia matumizi yako wakati wowote.
+371	Huduma hii inakupa upatikanaji wa kipekee na umiliki wa mkondo wa intaneti yaani brodibandi yako mwenyewe bila kugawana.
+372	Huduma hii inakupa upatikanaji wa kipekee na wa uhakika wa intaneti umiliki wa mkondo wa intaneti yaani brodibandi yako mwenyewe bila kugawana.
+373	Huduma hii inakuwezesha kutuma/kupokea hela kwa mtu mmoja kwenda mwingine, Mteja kwa kampuni, kampuni kwa Wateja na kampuni kwa kampuni.
+374	Huduma hii inampatia mteja uwezo wa kupiga na kupokea simu nyingi kwa wakati mmoja na pia kurahisisha mawasiliano baina ya Taasisi, Makampuni, Mashirika na wataje wao.
+375	Huduma hii inapatikana kwa wateja wa Vodacom.
+376	Huduma hii inarahisisha uwezo wa kuhudumia simu 30 kwa mara moja na kuboresha mawasiliano na wateja wa kampuni ya aina yoyote.
+377	Huduma hii inaunganisha simu zilizopigwa kutoka kwa tawi la kibinafsi la mteja(private branch exchange - PBX) kwenda kwenye mtandao wa umma( public switched telephone network -PSTN).
+378	Huduma hii inawezesha biashara kuwasiliana na wateja wako kwa urahisi zaidi.
+379	Huduma hii inawezesha wasimamizi wa kampuni kuwa na maelezo zaidi kuhusu matumizi na gharama katika kampuni zao.
+380	Huduma hii itaongeza angalau moja ya tatu ya idadi ya watu waliosajiliwa katika mifumo rasmi ya kifedha, na zaidi kufikia wanawake wa vijijini, ambao ndio asilimia kubwa zaidi ya idadi hiyo.
+381	Huduma hii mpya itawezesha wajumbe wa kikundi husika kuhifadhi fedha, kupata mikopo na kugawana faida kupitia M-Pesa.
+382	Huduma hii mpya ya M-Pesa itawezesha vikundi kutunza fedha kidijitali, kwa usalama na uwazi zaidi.
+383	Huduma hii ni kwa wateja wa malipo kabla wa Vodacom.
+384	Huduma hii ni kwa wateja wote wa Vodacom(wa malipo kabla na baada).
+385	Huduma hii ni ya kipekee na itaongeza uwazi na kupunguza ugumu na utofauti katika uongozaji wa vikundi, Huduma hii itakuwa kwa wateja wote wa Vodacom pale itakapozinduliwa na itatumika na vikundi vyote vya fedha.
+386	Huduma hii wanaweza kuipata wale wateja wa malipo ya kabla tu.
+387	Huduma hizi mpya ni za aina yake hapa nchini, na nafasi ya kipekee kwa wateja wetu kumaliza mahitaji yao yote kwa wakati mmoja kwa kutumia mbinu hizi.
+388	Huduma hizi ni kwa ajili ya miradi na biashara kama vituo vya afya, mashamba, na shule.
+389	Huduma hizi ni mpya kabisa na ni kwa ajili ya kuongeza uwezo wa biashara yako pamoja na utendaji bora zaidi.
+390	Huduma hizi zinakupa uwezo wa kuona idadi ya vifaa vyako na kupewa taarifa pale inapofika wakati wa kuagiza vipya.
+391	Huduma hizi zinawapa uwezo zaidi katika masoko yao yote.
+392	Huduma inapatikana kwa wateja wa M-Pesa waliosajiliwa kikamilifu.
+393	Huduma inapatikana kwa wateja wa M-Pesa waliosajiliwa tu.
+394	Huduma inapatikana kwa wateja wote wa Vodacom, waliosajiliwa na M-Pesa na wenye zaidi ya umri wa miaka 18.
+395	Huduma rafiki, yenye muziki wa nyumbani inayokuwezesha kutengeneza orodha yako ya midundo ya ndani na nje ya nchi na kuisikiliza na wote uwapendao.
+396	Huduma ya Afya ya Mezzanine imetengenezwa kusaidia wananchi kupata huduma bora za afya.
+397	Huduma ya BURE kwa wateja wa Vodacom kuomba kupigiwa simu kutoka kwa wateja wa mtandao wowote wa simu za mkononi nchini kwa njia ya SMS.
+398	Huduma ya malipo kwa kupitia M-Pesa yanaweza kulipwa ama na mteja au ama na kampuni au ama kwa kushirikiana wote wawili kwa kadiri kampuni ilivyoingia mkataba.
+399	Huduma ya malipo ya ankara ya Vodacom imewezesha malipo ya muamala mmoja au miamala mingi kama ikiwezekana.
+400	Huduma ya M-Pesa inapatikana tu kutoka SIM Kadi za Vodacom zilizosajiliwa za simu za mkononi na zilizo hewani.
+401	Huduma ya SOKA LETU hupatia wateja taarifa kupitia ujumbe mfupi na nafasi ya kupigia kura mchezaji maarufu wanaompenda.
+402	Huduma ya Uongozi wa shule inasaidia wakuu wa shule kutoa taarifa za shughuli za kila siku kwenda kitengo cha elimu.
+403	Huduma ya usimamizi wa shule inayorekodi taarifa za kila siku za mahitaji ya elimu ambazo vitengo vya elimu vinazihitaji kwa ajili ya usimamizi wa shule zao.
+404	Huduma ya Vodacom Colocation ina kuhakikishia umadhubuti na hali ya upatikanaji wa huduma.
+405	Huduma ya Vodacom Stock Visibility inarahisisha simu za smart na vifurushi vilivopo kusaidia kurekodi taarifa za siku.
+406	Huduma za Usalama zinajumuisha vizuizi vya kuingia kwenye kompyuta, barua pepe na uchujaji wa mahudhui ya tovuti na kupambana na matangazo ya biashara yasiofahamika.
+407	Huitaji kuwasiliana na Benk wala Benki haina taarifa zako.
+408	Huna haja ya kujisajili au kujiunga na chochote!
+409	Hutaweza kuhamisha pesa kutoka aakaunti yako ya M-Pawa kwenda kewnye akaunti ya M-Pawa ya mtu mwingine.
+410	Huu ndio huduma ambayo inaruhusu wateja wa M-Pesa waliosajiliwa kutoa fedha 24/7 kutoka kwenye Benki yoyote ya CRDB, DTB na Umoja wa ATM nchini Tanzania.
+411	Huwezi kuendesha au kutumia Huduma wakati wowote kwa namna yoyote ambayo inawezaleta ualibifu kwa Benki.
+412	Huwezi kununua M-Pesa kutumia muda wako wa hewani.
+413	Ikiwa Akaunti yako ya Mkopo ya M-Pawa in malimbikizo wakati wa kufungwa kwa Akaunti yako ya M-Pawa, unakubali kulipa mara moja kiasi chote unacho daiwa na Benki.
+414	Ikiwa Akaunti yako ya M-Pawa inadaiwa wakati wa kufungwa kwake, Benki ichukua kiwango chochote kilichopo pungufu ada yoyote inayofaa.
+415	Ikiwa Benki huamua kusimamisha au kukomesha utoaji wa Huduma kwa sababu za kibiashara au kwa sababu nyingine yoyote kama inavyoweza kuamua kwa busara yake kabisa.
+416	Ikiwa hataufuta usajili, maana yake ni kuwa amekubali kulipishwa kuanzia siku ifuatayo ili afurahie huduma hii ya usajili.
+417	Ikiwa hukubaliani na Kanuni na Masharti haya, tafadhali bonyeza "Kubatilisha" kwenye Menyu ya M-Pawa.
+418	Ikiwa kwa sababu yoyote ingine isipokuwa sababu iliyotajwa katika kifungu cha 10.1 au 10.2, Huduma hizi zinaingiliwa au hazipatikani, dhamana pekee ya Benki chini ya Mkataba huu kwa namna hiyo itakuwa ni kuanzisha tena Huduma haraka iwezekanavyo.
+419	Ikiwa kwa sababu yoyote, unapata App mahali pengine na kupakua kwenye simu yako, OS itakuzuia kuiweka kwenye kifaa chako.
+420	Ikiwa kwa sababu yoyote ya sahihisho la programu inahitajika, mtumiaji atatambulishwa wakati wa kuanza App.
+421	Ikiwa mteja anafikia kikomo cha tier, utaratibu wa kawaida wa kuboresha utafuatwa.
+422	Ikiwa ndio, kwa nini usiwe bure?
+423	Ikiwa simu inapotea au kuibiwa, mmiliki anaweza kubadili SIM kadi (Swap Swap) kwenye duka la Vodacom na kurejesha akaunti yake ya M-Pesa na kutumia PIN yake.
+424	Ikiwa tu akaunti yako ya MSISDN na M-Pesa inabakia ileile, unaweza kuendelea kutumia App kama kawaida.
+425	Ikiwa ulichoweka kama DoB yako haulingani na kile kilicho kwenye mfumo wa M-Pesa (labda kutokana na kosa la usajili), utahitajika kutembelea duka la Vodacom na kuwasilisha (ID) Kitambulisho chako.
+426	Ikiwa unabadilisha namba yako ya simu (MSISDN) (na akaunti ya M-Pesa), basi utahitaji kupakua tena programu kwenye simu na taarifa ya akaunti mpya.
+427	Ikiwa una kifaa cha Android na toleo nyuma ya OS 4.1 (Jelly Bean) au IOS 9, basi programu haitapatikana kupakua na kufunga kwenye Hifadhi ya Google Play.
+428	Ili kampuni kubwa ziweze kuona mafanikio, ni lazima wawe na mtandao unaowapa mwunganisho kila pale walipo.
+429	Ili kufungua Akaunti ya M-Pawa na Benki, lazima uwe na walau umri wa miaka 18 na Umesajiliwa na ni Mteja hai wa M-PESA.
+430	Ili kuingia kwenye promosheni kama mshiriki wa bure “wa zawadi ya kwanza ya papo hapo”, mshiriki anaweza kununua bando lolote kati ya bando zilizopo na bando maalumu zinazotoa nafasi ya ushiriki/kuingia kwenye droo.
+431	Ili kujua gharama halisi, wasiliana na Huduma kwa Wateja kwa namba 100.
+432	Ili kujua malipo halisi, wasiliana na Huduma ya Wateja juu ya 100.
+433	Ili kurudisha laini, Utafuata utaratibu wa kubadili laini kwa kutembelea Vodacom shop yoyote.
+434	Ili kuweza kuendelea kutimiza lengo hili na kukuza mahitaji ya kampuni mbalimbali hivi karibuni Vodacom imeanzisha kitengo maalum Vodacom Biashara.
+435	Ili kuwezesha programu, lazima uwe na SIM kadi ya Vodacom kwenye simu na kutumia mtandao wa data ya simu nchini Tanzania.
+436	Ili wateja wastahiki kuingia kwenye droo ya raffo ya kukutana na mchezaji maarufu aliyetangazwa, sharti wawe wameshiriki katika upigaji wa kura na kumpigia kura mchezaji maarufu aliyetangazwa kwa kupata uzito zaidi wa kura.
+437	Ili wateja waweze kustahiki kuingia kwenye droo ya raffo, lazima wawe wametozwa malipo mara moja au zaidi katika kipindi hicho cha raffo.
+438	Inafanya kazi ikitumia matamshi kwa hio mteja anaweza kutumia lugha yoyote.
+439	Inahakikisha uwazi,utendaji bora, na kuondoa hatari za pesa taslim.
+440	Inakadiriwa kuwa asilimia 16 ya watanzania (zaidi ya watu milioni 4.4), wengi wao wakiwa wanawake, ni wanachama wa vikundi zaidi ya 50,000 vya kuweka akiba na mikopo (VICOBA) ambao huhifadhi akiba zaidi ya TZS bilioni 100 kwa mwaka.
+441	Inakupa mawasiliano ya uhakika na salama ya mtandao ndani ya kampuni yako kwa kutumia mtandao wa GSM (Global System for Mobile) na mifumo mbalimbali yenye usalama na ufanisi wa hali ya juu.
+442	Inakupatia uwezo wa kuhudumia simu nyingi kwa wakati mmoja (kuanzia 30 au zaidi na njia za ziada kama E-1).
+443	Inakuwaje pale ambapo Pindua uniti zikaisha kabla ya muda wake?
+444	Inakuwaje pale muda wa matumizi wa pindua uniti umefika mwisho?
+445	Inakuwezezesha kupakua na kusoma habari wakati wowote kidigitali kutoka kwa wachapishaji wa magazeti na majarida (ya Kiswahili na Kiingereza) kwa nusu ya bei kama punguzo.
+446	Inamuondolea mteja gharama kubwa za awali (capex), huduma hii mteja hulipia malipo ya mwezi na anapata uwezo wa kubadilisha mahitaji yake wakati wowote(kuongeza na kupunguza miundombinu ya komputa kutokana na uhitaji wa wakati huo).
+447	Inatoa huduma na ripoti muhimu kwaajili ya maamuzi ya kiabiashara.
+448	Ingawa hakuna ushahidi wa kuwashawishi wataalam kuwa matumizi ya simu za mkononi na masts zinazowafanya kazi ziwe na hatari za afya, watu wengine bado wana wasiwasi.
+449	Ingawa kiwango cha juu kwa mtu binafsi kitategemea namna ya matumizi ya mtu binafsi.
+450	Ingawa unaweza kuhamisha pesa kutoka akaunti yako ya M-Pesa yako kwenda akaunti zao za M-Pesa.
+451	Ingiza IMEI namba na kisha bonyeza “Check”.
+452	Ingiza kiasi katika Shilingi ya Tanzania.
+453	Ingiza Kiasi, PIN na uhakikishe Muamala kwa kuchagua 1 ili kuthibitisha au bonyeza 2 ili kufuta.
+454	Ingiza kiasi unachohitaji mteja wa Safaricom kupokea shilingi ya Kenya.
+455	Ishi bila wasiwasi na ufurahie huduma bora.
+456	Isitoshe hata ukitumia GB zako zote, bado unaweza kuendelea kuwa hewani.
+457	Iwapo kuna kipengele kipya kinachopatikana kwenye Programu, basi Uzoefu wa Nje-ya-Box (Out-Of-Box-Experience) utaonyeshwa kwa mtumiaji kuwajulisha kipengele kipya, na jinsi ya kutumia.
+458	Iwapo namba ya mshindi haipatikani (ndani ya muda uliowekwa katika kifungu 8.4)au ikatokea mshindi akakataa kuikubali zawadi basi zawadi itawekwa tena kwenye droo upya.
+459	Jaza kwa uangalifu kwenye mtandao husika na utapata ujumbe wa uthibitisho wa malipo yako.
+460	Je faida gani utapata kwa kusave pesa kwenye M-Pawa?
+461	Je inawekana kuwa na mkopo wa M-Pawa zaidi ya mmoja?
+462	Je inawezekana kutumia M-Pawa ukiwa nje ya Tanzania?
+463	Je inawezekana kuwa na akaunti zaidi ya moja ya akiba ya M-Pawa?
+464	Je itakuwaje kama utapoteza simu ikiwa na akaunti ya M-Pawa?
+465	Je kama ukilipa mkopo kabla ya muda wa kulipa kupita, bado utakatwa gharama ya ushauri ya 9% ya kiasi cha mkopo?
+466	Je kuna umuhimu wa kuwa na PIN tofauti kati ya akaunti za M-Pesa na M-Pawa?
+467	Je mteja akijiunga na Pinduapindua kipaumbele katika matumizi itakuaje kati ya uniti na zile huduma za ziada za bure?
+468	Je naweza nunua na kufurahia huduma za bidhaa zingine ukiwa na pindua uniti?
+469	Je ni idara gani/shirika gani la Serikali linahusika kusimamia kanuni na sharia zaVAT?
+470	Je ni kazi gani za M-Pawa kwenye menu?
+471	Je ni kipi kiasi cha chini cha salio la Akiba la akaunti ya M-Pawa?
+472	Je ni kiwango gani cha mkopo kitalipwa baada ya siku 30?
+473	Je ni mhimili gani wa serikali unahakikisha sharia ya VAT inatumika?
+474	Je ni namna gani mteja ateweza kujiondoa kwenye huduma?
+475	Je ni namna gani wateja wanaweza kujiunga na huduma?
+476	Je ni njia gani nyingine uliwahi kutumia kabla ya kutembelea tovuti yetu?
+477	Je nitatarifiwa pindi nitakapokatwa VAT au malipo ya huduma?
+478	Je ni VAT ni kiwango ngani?
+479	Je ni zipi gharama za huduma?
+480	Je pale nitakapoongeza salio nitakatwa salio na kupewa kifurushi cha RED?
+481	Je pointi zangu zinaweza kuisha muda wake?
+482	Je sharia hii inatumika kwenye huduma ya M-Pawa?
+483	Je sharia hii itabadili nini kwenye taratibu za maombi ya mkopo?
+484	Je unahitaji Ofa za Malipo Baada?
+485	Je unaweza kuhamisha pesa kutok akaunti ya M-Pawa kwenda akaunti ya benki kwa kutumia CBA au benki nyingine yoyote?
+486	Je unaweza kutuma pesa kutoka kwenye akaunti yako ya M-Pawa kwenda kwa akaunti za M-Pawa za watu wengine.
+487	Je unaweza kutumia akaunti yako ya M-Pawa kupitia CBA au tawi la benki nyingine?
+488	Je utalipaje mkopo wa M-Pawa?
+489	Je vigezo na masharti ni vipi?
+490	Je wewe ni Mteja wa Biashara?
+491	Je wewe ni mwenye biashara ambae umeazimia kufanya makusanyo yako ya pesa kutoka kwa wateja wako yawe rahisi, haraka nay a uhakika?
+492	Jinsi unavyotumia zaidi ndio jinsi unajiongezea nafasi zaidi za kushinda.
+493	Jinsi ya kujirunga na Pinduapindua?
+494	Jiunge na M-KOBA leo ufanikishe malengo ya kikundi chako kiganjani kwako.
+495	Jiunge sasa na mtandao uliosambaa na wenye kasi zaidi!
+496	Jiunge sasa na ujiongezee nafasi ya kushinda zawadi nono.
+497	J: Mara baada ya mteja kununua SIM kadi ya Vodacom na kuisajili, moja kwa moja husajiliwa kwenye M-Pesa.
+498	Jukumu la Vodacom kwa wateja wake ni kutoa huduma zenye ubora wa hali ya juu!
+499	Jumla ya magari 10 na Shilingi milioni 120 pesa taslim zitatolewa katika kipindi cha wiki 10 kwa wateja wa M-Pesa, mawakala na wafanyabiashara wanaopokea malipo kwa huduma ya Lipa kwa M-Pesa.
+500	J: Wakati mteja anataka kuweka au kutoa fedha kwenye akaunti ya M-Pesa, anahitaji kutembelea Wakala wa M-Pesa aliye karibu, na kumuhuliza Wakala wa M-Pesa kama ana thamani ya M-Pesa ama kwa kuweka au kutoa kabla ya kufanya muamala wa M-Pesa.
+501	Kabla ya kuomba kufungua Akaunti ya M-Pawa kupitia Mfumo wa M-PESA unapaswa kusoma kwa makini na kuelewa Kanuni na Masharti haya ambayo itaongoza matumizi na uendeshaji wa Akaunti ya M-Pawa.
+502	Kabla ya kutumia laini yako ya simu; nambari yako inahitaji kusajiliwa kikamilifu, unachotakiwa ni kutembelea duka lolote la Vodacom au Mawakala wetu wa Usajili ukiwa kitambulisho chako sahihi cha kujiandikisha.
+503	Kadri unavyonunua bando nyingi, ndivyo unavyozidi kuongeza nafasi zako za kushinda.
+504	Kama haukubaliani na vigezo na masharti haya, tafadhali usishiriki katika promosheni hii.
+505	Kama huduma ya kujirudia imewezeshwa, utapokea ujumbe mfupi kukukumbusha kuwa na salio la kutosha kwa ajili ya kuwezesha kifurushi chako.
+506	Kama huna salio la kutosha, kujirudia kwa kifurushi hakutafanyika na faida za zote za RED zitaondolewa.
+507	Kama huna uhakika kama wewe ni mteja wa malipo ya awali au la, tafadhali piga 100 Huduma kwa Wateja na utapata suluhisho paop hapo.
+508	Kama huna uhakika kama wewe ni mteja wa malipo ya awali au la, tafadhali piga 100 Huduma kwa Wateja na utapata suluhisho papo hapo.
+509	Kama ikishindikana, utapokea ujumbe kukufahamisha na kukushauri uwasiliane na Huduma kwa Wateja.
+510	Kama jibu ni hapana, je ni nini kingine ulijaribu kabla ya kutumia tovuti yetu? 6. Mwisho, unaweza kutupatia sababu ya chaguzi zako?
+511	Kama kifurushi cha RED kikiisha muda wa matumizi, hutaweza kununua vifurushi vya nyongeza vya RED.
+512	Kama kiongozi katika soko la mawasiliano ya simu, Februari 2006, Vodacom Tanzania ilifanya maamuzi ya kujadili mabadiliko ya leseni yake ya awali PLMN kwenda katika mfumo mpya wa leseni.
+513	Kama mmiliki wa Akaunti ya M-Pawa, unaweza kuweka au kutoa fedha kwenye Akaunti yako ya amana ya M-Pawa kwa kutumia M-Pawa Menu kwenye Kifaa chako.
+514	Kama mmiliki wa Akaunti ya M-Pawa, unaweza, kwa mujibu wa Kanuni na Masharti, kuomba mkopo kutoka Benki kwa kutumia M-Pawa Menyu kwenye Kifaa chako.
+515	Kama mteja hatachagua chaguo katika kipindi fulani cha muda, chaguo la msingi la sauti litawekwa na itapigwa simu kwenda kwa rafiki ikiwa na chaguo hilo.
+516	Kama pointi hazijatumika ndani ya miezi 12 zitaondolewa kwenye akaunti ya mteja.
+517	Kama promosheni itasitishwa kwa sababu yoyote ile, Promota wa promosheni atachapisha taarifa ya kusitishwa kwa promosheni kwenye www.facebook.com/tzvodacom.
+518	Kama umeomba mkopo wa Tsh. 100,000, utalipa Tsh. 109,000 ndani ya siku 30.
+519	Kama umepokea kimakosa unaweza kuomba kurudishwa muamala wakati wowote.
+520	Kama unaamini ili kupata huduma za kibenki hautakiwi kupata usumbufu basi M-Pawa ndio chaguo lako.
+521	Kama una salio la kutosha na kifurushi chako kikaisha muda wa matumizi, basi kifurushi chako cha RED kitawezeshwa moja kwa moja na utapokea ujumbe mfupi wa kuthibitisha kujiunga.
+522	Kama wewe ni mtumaji uliyekosea kutuma unaweza kuomba kurudishiwa muamala ndani ya masaa mawili ya kukosea kutuma Pesa.
+523	Kama wewe si mteja M-Pesa: Tembelea Wakala wa M-Pesa au Vodacom shop kujisajili na huduma ya M-Pesa.
+524	Kampeni hii inalenga zaidi kuwaelimisha wateja wa Vodacom kuhusu njia mpya za kidijitali za kujihudumia na kupata taarifa mbalimbali pale wanapohitaji msaada.
+525	Kampeni hii inatoa nafasi kwa wateja wake kushinda zawadi mbalimbali.
+526	Kampeni ya Vodacom ya kuhamasisha ushiriki wa shindano la (“Promosheni ").
+527	Kampuni yako ni mteja tayari wa Vodacom?
+528	Kanuni na Masharti haya (kama yanavyoweza kurekebishwa mara kwa mara) hufanya mkataba wa kisheria unaokufunga wewe na wafuasi wako.
+529	Kanuni na Masharti haya na marekebisho yoyote au tofauti zake huanza kutumika baada tu ya kuchapishwa.
+530	Kanuni na Masharti haya yanaweza kurekebishwa au kubadilishwa na Benki mara kwa mara na kuendelea kutumia Akaunti yako ya M-Pawa inapelekea kukubaliana na marekebisho au mabadiliko hayo ya Kanuni.
+531	Kanuni – Vifurushi hivi ni kwa wateja wa malipo ya kabla tu.
+532	KASI Intaneti ni huduma mpya kutoka Vodacom Plc inayokupa uwezo wa kununua bando zenye data isiyokata.
+533	Kasi ya intaneti kwenye mtandao wa Vodacom ni ya juu zaidi popote ulipo Tanzania.
+534	Katika duka la Wakala wa M-Pesa, mteja anaweza kutoa fedha, nambari ya kumbukumbu * pamoja na nambari ya simu yake mwenyewe kwa wakala na kuomba malipo kwa kampuni kwa chaguo lake, kama Luku, Dawasco, DSTV na Azam TV.
+535	Katika hali hiyo, ni vizuri UBADILI PIN yako mara moja; kwa kuwasiliana na Huduma ya Wateja wa Vodacom (piga simu 100).
+536	Katika karne hii hakuna mwanamke anayestahili kutengwa au kunyanyapaliwa na jamii yake kwa sababu ya fistula.
+537	Katika kuhakikisha wateja wake wanapata huduma za haraka na kwa ufanisi zaidi hasa wakati huu ambao..
+538	Katika kuhakikisha wateja wake wanapata huduma za haraka na kwa ufanisi zaidi hasa wakati huu ambao ulimwengu umekuwa..
+539	Katika kusherehekea miaka 10 ya M-Pesa, Vodacom inanogesha furaha ya watanzania kwa kutoa zawadi za pesa taslim pamoja na magari MAPYA kabisa Aina ya Renault KWID 2017.
+540	Katika kusherehekea wiki hii ya wanawake duniani, tumeona ni vyema kusherehekea na wadogo zetu, kuwapatia mahitaji muhimu na pia kuwawezesha kuwa na nyenzo muhimu za kuwasaidia kufikia ndoto zao kwani ulemavu sio kikwazo cha mafanikio”.
+541	Katika tukio ambalo hatuwezi kufanya hivyo licha ya mchakato wa ndani kujalibu kutatua, wateja wana haki ya kurejesha jambo hilo kwa Kamati ya Malalamiko chini ya Mamlaka ya Udhibiti wa Mawasiliano Tanzania.
+542	Katika tukio la mgogoro wowote kati ya masharti yoyote ya ombi lolote lililopokelewa na Benki kutoka kwako na kulingana na Kanuni na Masharti haya, Kanuni na Masharti haya yatausika na kutumika.
+543	Katika vitendo vya biashara ikiwa si tu pamoja kudhibiti ubora, mafunzo na kuhakikisha ufanisi wa mifumo.
+544	Kiasi cha chini kinachowea kubaki kama salio la akaunti ni sifuri.
+545	Kifurushi hakitajiwezesha chenyewe baada ya hapo.
+546	Kila 10000 itampa pointi moja.
+547	Kila akaunti inalindwa na PIN namba ya siri inayowekwa na mteja wa M-Pesa mwenyewe.
+548	Kila mteja atapata Ofa ya kupiga simu, intaneti na SMS.
+549	Kila siku, simu za mkononi husaidia kubadilisha maisha ya watu na kuboresha mawasiliano duniani kote kwa kuunda upatikanaji wa huduma na kuwezesha maendeleo ya kiuchumi.
+550	Kila siku Zawadi za kuanzia Laki 5 hadi Milioni 15. Na kwa mwezi ni shilingi Milioni 15.
+551	Kila unapofanya miamala ya kuanzia SH. 500 mteja atapata point moja.
+552	Kila wiki, mtumiaji mmoja wa M-Pesa atapata Bahati ya kujishindia gari JIPYA kabisa la kisasa aina ya Renault KWID la mwaka 2017.
+553	Kipaumbele katika matumizi itakuwa ni zile huduma za bure za ziada halafu ndo uniti zitatumika.
+554	Kipaumbele kitapewa kwa Ofa ambayo inaendana na matumizi binafsi ya kila mteja.
+555	Kisha PIN ya M-Pesa ya kawaida.
+556	Kisha weka KIASI kama kilivyo kwenye ankara uliopokea na thibitisha kwa PIN ya M-Pesa.
+557	Kisima cha burudani kinachokupa mwojo wa kidigitali kwenye simu yako.
+558	Kitengo cha Afya kinaweza kusimamia usambazaji wa muhimu na kulinganisha kiasi cha madawa kilichonunuliwa kama kinalingana na kile kilchopo kwenye dispensari.
+559	Kituo hicho kina jumla ya watoto 40, kati yao 20 ni wale wenye mahitaji maalum kama vile mgongo wazi, vichwa vikubwa na down syndrome.
+560	Kiwango cha chini cha kuhamisha ni Tsh 10 na kiango cha juu ni Tsh 3,000,000 kulingana na kikomo (tier) cha mteja.
+561	Kiwango cha hesabiwa ya Mkopo kitawekwa kwenye Akaunti yako ya M-PESA na kitazingatia na punguzo lolote kwa sababu ya ada za miamala husika.
+562	Kiwango cha juu kinatofautiana baina ya wateja.
+563	Kiwango cha ubadilishaji ni Tsh 23.76Tsh / 1Ksh "
+564	Kiwango unachoweza kuweka kwenye kadi yako kinategemea kikomo cha akaunti yako ya M-Pesa.
+565	Kuanzisha bando yako baada ya siku 30 ni rahisi sana!
+566	Kubadilisha lugha yangu ya upendayo kwenye programu inatumika kwenye programu tu?
+567	Kufanya kazi na mashirika yasiyo ya kiserikali na washirika, Taasisi ya Vodacom ya Jamii imesaidia miradi zaidi ya 120 hadi leo na kuwekeza zaidi ya shilingi bilioni 14 ili kuboresha maisha ya waTanzania.
+568	Kufanya kazi na NGOs za mitaa, Serikali na washirika wengine, tumejitolea kuboresha fursa zilizopo sasa.
+569	Kuhusu tabia za uendeshaji wa madereva wako na kukutumia ujumbe pale wanapo kata kona kwa nguvu sana, kufunga breki ghafla, au kuendesha kwa kasi sana.
+570	Kujua gari yako ilipo pekee haitoshi.
+571	Kujua zaidi kuhusu huduma zetu na jinsi ya kupata bofya hapa.
+572	Kukamilisha mchakato wa usajili wa elektroniki.
+573	Kukubalika na Benki juu ya ombi lako kwa ajili ya ufunguaji Akaunti ya M-Pawa itafanyika kwa kupitia Ujumbe Mfupi wa Maandishi (SMS) utakaotumwa kwenye namba yako ya simu ya mkononi ya Vodacom iliyohusishwa na Akaunti yako ya M-PESA.
+574	Kulinda afya na usalama wa wateja wetu, wafanyakazi na umma ni muhimu.
+575	Kulingana na sehemu ya wateja aliyopo mteja yupo, matukio anayoyapata ni tofauti.
+576	Kulipa mapema kunakupa kunakuongezea nafasi ya kukupa siku zijazo.
+577	KUMBUKA: Wajulishe wateja wako wakulipe kwa M-Pesa ili wote mpate nafasi za kujishindia kwenye Zawadi za kila wiki ikiwemo gari JIPYA kabisa.
+578	KUMBUKA: Wakala, wajulishe wateja wako waweke pesa kwenye M-Pesa ili nao wapate nafasi ya kujishindia gari jipya na pesa taslim.
+579	Kuna gharama gani kwenye Huduma ya Malipo?
+580	Kuna gharama ya kujiunga na huduma.
+581	Kuna gharama zozote za kutumia huduma hii?
+582	Kuna kikomo kwa idadi ya miamala kwa siku kwenda au kutoka mitandao tofauti?
+583	Kuna manufaa mengi sana mteja akiwa na pindua uniti, kwanza kabisa matumuzi ya pindua uniti anajipangia mteja mwenyewe, na pindi uniti zikiisha bado mteja ataendelea kuwasiliana kwa maana ya kufurahia facebook bure,whatsapp bure na sms bure.
+584	Kuna tofauti gani kati ya Pindua uniti na vifurushi vya kawaida?
+585	Kuna viwango gani vya miamala kwa Mteja wa M-Pesa?
+586	Kuonesha ni jinsi gani tunakuelewa na tumekupata, tunakuletea ofa kwa ajili yako "YaKwakoTu"
+587	Kupata maelezo zaidi na kujiunga na Vodacom Biashara wasiliana nasi kwa: Barua pepe - business@vodacom.
+588	Kupitia huduma hii utafurahia kupokelewa au kutumwa haraka kwa pesa zako ukilinganisha na njia za kutuma pesa kwa basi au benki ambazo zinatumia masaa hadi siku kadhaa kwa pesa kuwafikia wahusika waliopo nchini Kenya au Tanzania.
+589	Kupitia huduma hizi biashara wanaweza kuongeza uwezo pamoja na biashara katika masoko.
+590	Kupitia kampeni hii ya miaka kumi ya M-Pesa wateja wataweza kujishindia zawadi za MAGARI na MAMILIONI kwa mchanganuo ufuatao.
+591	Kupitia mtandao supa wa Vodacom unaoaminika, biashara zinaweza kupata faida ya kasi zaidi.
+592	Kupitia namba za kulipa ankara, kampuni/taasisi Wanaweza kuwahudumia wateja kwa ubora zaidi kwa kuwa wateja wataweza kulipia huduma kwa urahisi zaidi na kwa wakati.
+593	Kupitia ushirikiano na Juba Express, unaweza kupokea pesa kutoka kwa ndugu na jamaa waliopo Australia, Uingereza, marekani, Canada, Sweden, Falme za kiarabu (U.
+594	Kurudisha sauti ya awali, mteja atabonyeza ‘0’.
+595	Kushindwa kutoa taarifa kama hizo ndani ya wakati unaohitajika na Benki inaweza kusababisha Benki kubatilisha/kukataa ombi lako la ufunguaji wa Akaunti ya M-Pawa.
+596	Kushindwa kwako kuzingatia Kanuni na Masharti haya na nyaraka yoyote au taarifa iliyotolewa na Benki kuhusu matumizi ya Mfumo na Huduma.
+597	Kutoa mishahara, mikopo, malipo na kadhalika, kwa wafanyakazi na wateja kupitia M-Pesa.
+598	Kutokana na kanuni za bidhaa, kiwango cha chini kinachweza kukupwa ni Tsh 1000 and kiwango cha juu ni Tsh 500,000.
+599	Kutuma mishahara, mikopo, malipo na zaidi kwa wafanyakazi na wateja kupitia M-Pesa.
+600	Kutumia teknolojia, tunawasaidia wanawake na wasichana nchini Tanzania kuboresha afya zao, upatikanaji wa elimu na kujenga ushirikishaji wa kifedha.
+601	Kutumia teknolojia ya simu, Taasisi ya Vodacom ya Jamii imesaidia kufumbua matatizo mbalimbali ya muda mrefu.
+602	Kuwezesha wanawake na wasichana Tanzania kutumia uwezo wao kufanikisha ndoto zao.
+603	Kwa hivyo, utahakikisha kuwa mawasiliano yote kutoka kwa Benki yanachunguzwa na kuhakikiwa na wewe au kwa niaba yako haraka iwezekanavyo baada ya kupokea na wewe kwa namna ambayo matumizi yoyote yasiyoidhinishwa na ya kufikia Mfumo yatagunduliwa.
+604	Kwa hiyo ni lazima wajisajili kwenye huduma M-Pesa ndani ya siku 21 ili watumie fedha hiyo; Mara baada ya kusajiliwa fedha zitatowekwa kwenye akaunti ya M-Pesa.
+605	Kwa hiyo, ni muhimu sana kwamba wateja hawatoi PIN zao kwa mtu mwingine yeyote, wala hawanakili/kuandika PIN namba hizo mahali popote.
+606	Kwa hiyo unakubali kulipa gharama za mashtaka na gharama zilizopatikana na Benki katika kupata au kujaribu kupata malipo ya mkopo wowote chini ya Akaunti yako ya Mkopo ya M-Pawa.
+607	Kwa kawaida simu huwa na muito inayochosha na isiyofurahisha kama mlio wa "tring-tring".
+608	Kwa kiwango kinachokubalika na Sheria, uamuzi wa Msuluhishi utakuwa wa mwisho, unaozingatia na unaofunga juu ya pande zote kwa hapa.
+609	Kwa kuendelea kutumia tovuti yetu, unakubaliana na matumizi ya vidakuzi hivi.
+610	Kwa kuimarisha shughuli za vikundi vya akiba kidijitali zaidi, huduma hii itatengeneza mazingira wezeshi ambayo yatakuza utamaduni wa kuweka akiba, usimamizi imara wa kifedha na kukuza ujumuishwaji wa fedha nchini kwa njia ya M-Pesa.
+611	Kwa kuondoa shaka, unatambua na kukubali kwamba huwezi kuruhusiwa au kupokea au kudai Huduma zinazohusiana na Akaunti ya M-Pawa kwenye tawi lolote au matawi ya Benki isipokuwa kama Benki imeshauri kwa hiari yake peke yake.
+612	Kwa kuongeza, nembo ya M-Pesa App na mwonekano itaonekana kwa wateja kwenye Hifadhi ya Google Play na katika vifaa vyote vya masoko kwenye App.
+613	Kwa kuonyesha mazoea ya kuongoza na kuwahimiza wengine kufuata, tunalenga kuongoza ndani ya sekta hiyo kwa kukabiliana na wasiwasi wa umma kuhusu simu za mkononi, masts na afya.
+614	Kwa kupitia IVR: Mteja atapiga 0901767777 na kisha kufuata maelekezo ya kujiunga.
+615	Kwa kupitia OBD: mfumo wa huduma utampigia simu mteja ambapo anaweza kujiunga kwa kufuata maelekezo baada ya kupokea simu.
+616	Kwa kutumia au kuendelea kutumia Akaunti ya M-Pawa.
+617	Kwa kutumia Pamoja Group Saving washiriki wote wa makundi wataweza kufuatilia mwenendo mzima wa kifedha wa kundi, ikiwemo kiasi cha fedha kilichopo ndani ya kundi.
+618	Kwa kutumia teknolojia, tutaunda fumbuzi mbalimbali mpya za matatizo ya muda mrefu.
+619	Kwa kuweka, kutoa fedha kwa wakala.
+620	Kwa kuzingatia Benki kukupa Mkopo, utalipa Benki ada ya mchakato kuwezesha mkopo kwa 9% ya kiasi cha Mkopo ("Malipo ya Mchakato").
+621	Kwa kuzingatiwa uvumilivu wa Benki kutaka malipo ya mara moja kwa kiasi kutokana na salio ishia la Mkopo, kwa kuzingatia Mkopo wako na kuongezeka Mkopo kulingana na Vifungu.
+622	Kwa maelezo zaidi bonyeza hapa Unahitaji laini ya Vodacom?
+623	Kwa maelezo zaidi, tafadhali bonyeza hapa.
+624	Kwa maelezo zaidi, tutumie barua pepe kwa m-pesabusiness@vodacom.
+625	Kwa mawakala, watapata pointi wakiweka na kutoa Pesa kwa wateja.
+626	Kwa mfano: ada ya kutoa, ada ya kutuma fedha n.k.
+627	Kwa mfano, kwa kutoa kiungo kwenye App kwenye Hifadhi ya Google Play kutoka kwenye Menyu ya USSD, mtandao wa Vodacom-Tanzania na kwa taarifa za SMS kwa watumiaji wa Programu ya Simu ya Mkono.
+628	Kwa nini uchague Vodacom kwa intaneti yako?
+629	Kwa nini uchague Vodacom kwa Tuzo pointi?
+630	Kwa nini ujiunge na Vodacom?
+631	Kwa nini utumie M-Pesa?
+632	Kwa sasa huduma hii inapatikana katika nchi 91.
+633	Kwa simu zipigwazo ndani ya Tanzania ni Tsh 1.5 kwa sekunde na gharama kwa MB ni Tsh 20.
+634	Kwa ufupi mteja akiwa na Pindua uniti anakuwa na uhuru wa kupiga simu,kuberuzi na kutuma sms kwa sababu matumizi ya uniti unajipangia mwenyewe.
+635	Kwa urahisi wako, tumejumuisha orodha ya huduma mbalimbali za benki kwenye orodha ya M-Pesa.
+636	Kwa Vodacom M-Pesa, wateja wanahakikishiwa uhamisho wa fedha ambao ni wa haraka, salama na muhimu zaidi, wa kuaminika.
+637	Kwa wafanyabiashara, watapata pointi wakipokea malipo ya biashara kutoka kwa wateja.
+638	Kwa wateja wanaojisajili kwa mara ya kwanza, wataunganishwa siku tatu za kwanza bure.
+639	Kwa wateja wa VODACOM wanatakiwa kutumia M-Pesa kufanya miamala mbalimbali kwa wingi Zaidi.
+640	Kwa wateja wote miamala hufanyika kuanzanzia viwango vya awali Kundi Njia ya 1(Tier1).
+641	Kwenye droo kubwa ya mwisho wa promosheni mshindi atajinyakulia milioni 150.
+642	La hasha, unapobadilisha lugha upendayo kwenye programu, mabadiliko yatatumika kwa njia zote za M-Pesa (yaani USSD na App) na taarifa za SMS.
+643	Laini ya kwaza inafanya kazi vizuri zaidi.
+644	Lakini ni vizuri kuwezesha huduma hio ili upate faida ya kuhamisha dakika, MB na SMS ambazo hukuzitumia.
+645	Lakini vifurushi vya Kwese vinakupa unafuu zaidi kwenye gharama ukilinganisha na vifurushi vya intaneti.
+646	Lengo letu ni kuhakikisha mnapata msaada wa haraka zaidi na kuendelea na majukumu mengine ya kujenga taifa.
+647	Leo, miaka 10 baadaye tuna wateja zaidi ya milioni 10 na bado tunaendelea kukua kwa kasi.
+648	Lipa ada bila foleni!
+649	Lipa ada mahali popote kwa m-Pesa.
+650	Lipa kwa M-Pesa ni huduma ufanyika katika wakati halisi na Mteja pamoja na Mfanyabiashara watapokea ujumbe mfupi wa SMS inayohakikishia muamala huo.
+651	Lipa Kwa M-Pesa ni nini?
+652	Lipa mishahara, marupurupu, gawio, mikopo na malipo mengine ya moja kwa moja kwenda kwa wapokeaji.
+653	Machi 2017, Vodacom iliboresha huduma kwa kuzindua aplikesheni ya M-Pesa ambaapo moja ya faida ni kukubali malipo kwa kutumia msimbo wa QR ambayo inarahisisha namna ya malipo kwa kuondoa ulazima wa kuandika namba ya till uwapo sehemu ya malipo.
+654	Maelezo kwa viongozi / walimu wakuu wa shuleI Kama wewe ni kiongozi wa shule au mkuu wa shule na unataka shule yako ikubali malipo kwa M-Pesa tafadhali wasiliana nasi kwa m-pesabusiness@vodacom.
+655	Maelezo ya Jumala kwa Wazazi/Walezi Kulipa ada za shule kwenye shule yoyote kwenye orodha, tafadhali wasiliana na uongozi wa shule, Mkuu wa shule na watakupatia namba ya M-Pesa ambayo utatumia kuhamisha malipo ya ada ya mwanao.
+656	Maelezo yote yatatolewa utakapopigiwa simu na wawakilishi kutoka Vodacom.
+657	Magari 10 MAPYA kabisa!
+658	Majukwaa ya Vodacom cloud computing yanawezesha aina zote za seva, ulinzi na mifumo ya kuhifadhi taarifa.
+659	Makato ya malipo ya miamala ya awali haitarejeshwa.
+660	Malipo ya fedha taslimu kwenye mauzo ya mazao yanahatarisha usalama kwa wote wanaohusika.
+661	Malipo ya kabla-Wateja hawa wataweza kujipatia pointi mara tu wanapoongeza salio Uhuru-Wateja hawa watapata TUZO pointi mara wanapoongeza salio kwenye akaunti zao za malipo ya kabla.
+662	Malipo ya kupeleka fedha kwenye akaunti nyingine za fedha za usajili zinafanana na kupeleka kwenye akaunti iliyosajiliwa ya M-Pesa.
+663	Malipo ya kupeleka fedha kwenye akaunti za fedha za simu za Safaricom M-Pesa ni sawa na kupeleka kwenye akaunti nyingine iliyosajiliwa ya Vodacom M-Pesa.
+664	Malipo ya Mchakato yatalipwa na wewe juu ya Mkopo na malimbikizo yaatuliopata.
+665	Malipo ya usajili ni 100 Tsh kwa siku.
+666	Mamlaka ya Mapato ndio inahusika kutathmini, kukusanya na kufanya mahesabu ya mapato yote ya serikali.
+667	Mamlaka ya Mapato Tanzania ina majukumu ya kuhakikisha usimamizi wa makaridio,ukusanyaji na mahesabu ya mapato yote ya serikali kuu na kuhakikisha Taasisi zote za kifedha zinatekeleza sharia mpya ya malipo ya VAT kwa makusanyo yote.
+668	Maneno yanayorejea maana ya umoja katika mazingira yanayokubalika inajumuhisha pamoja na maana ya wingi na kinyume chake.
+669	Mara baada ya usajili mteja aliyesajiliwa atapata namba kianzio, ataitajika kuwezesha akaunti ya M-Pesa kwa kubadili namba kianzio PIN na kuweka PIN aliyochagua na atakayokumbuka.
+670	Marejesho ya Mkopo yanatakiwa kufanyika ndani ya siku 30 za kalenda kutoka tarehe uliyotumiwa Mkopo.
+671	Maswali na Majibu ya Miaka 10 ya M-Pesa.
+672	Matumizi ya fedha zilizopatikana kwa kosa ni kinyume cha uaminifu wa matumizi na isiyo halali na inaweza kuonekana kosa la kuadhibiwa.
+673	Mawakala wapya na wa zamani wana nafasi ya kushinda kwenye promosheni hii.
+674	Mbali na misaada hiyo, wafanyakazi wa Vodacom pia walijitolea muda wao kucheza na kufurahi pamoja na watoto hao kwa ajili ya kuwapatia faraja.
+675	Mbali na vikundi hivyo rasmi, kuna idadi ya zaidi ya vikundi 50,000 visivyo rasmi ambavyo vinaweka akiba na kutoa mikopo kupitia mitandao ya vikundi vya wahitimu, vyama vya kifamilia, vikundi vya watu wanaofanya kazi sehemu moja na kadhalika.
+676	Mchanganua wa Gharama za pindua units zikoje?
+677	Mezzanine inawawezesha wadau na wafanyakazi kwenye Sekta ya kilimo kwa kuwapa huduma ya Mkulima Aliyewezeshwa, ili kuongeza ufuatiliaji wa shughuli za shambani, kusimamia na kuweka rekodi za mkulima na ulinzi kwa watumiaji wa huduma walioruhusiwa.
+678	Mezzanine Kilimo inafahamika pia kama Mkulima Aliyewezeshwa, inasaidia kuongeza uchumi wa wakulima.
+679	Mfano, kama ukomo wa mkopo ni Tsh 2000, mteja anaweza kukopa zaidi ya mara moja kulingana na mkopo.
+680	Mfano: "Kwa mpokeaji kupata 1000 KSH, unapaswa kutuma Tsh 23760.
+681	Mfano Tsh Milioni 3 kwa wateja ambao wamekamilisha usajili.
+682	Mfumo huu unaweza kukupa taarifa kuhusu eneo gari liliopo na wakati gani na kukusaidia kupunga gharama na kuongeza mapato yako kwa kusimamia utumiaji wa mafuta.
+683	Mfumo huu unawezesha usimamizi wa magari mengi katika kampuni na kukusaidia kupunguza gharama zinazojitokeza.
+684	"Mfumo" maana yake ni mfumo wa Benki wa kieletroniki na programu ya mawasiliano ya Benki ili kuwezesha Wateja kuwasiliana na Benki kwa madhumuni ya Huduma.
+685	Mgogoro wowote endapo haukutatuliwa kwa kifungu na 17.1 hapo juu utapelekekwa kwa msimamizi Mkuu wa Benki.
+686	Miamala itakayoongeza pointi kwa mteja ni pamoja na kukua muda wa maongezi au vifurushi, Kulipia bili, Lipa kwa M-Pesa, Tuma Pesa, Hamisha Pesa kutoka Benki kwenda M-Pesa.
+687	Miamala ya M-Pawa haiwezi kurejeshwa.
+688	Miamala ya M-Pesa inahusisha huamishaji wa haraka wa fedha za umeme hivyo tunashauri wateja wawe na uangalifuwa ziada wakati wa kuthibitisha miamala hii.
+689	Miamala ya zaidi ya siku 30 hairejeshwi na Vodacom.
+690	Miamala yote chini ya laki moja itarudishwa ndani ya masaa mawili wakati miamala yenye thamani Zaidi ya laki moja itachukua masaa 72.
+691	Mkataba huu na haki yoyote au wajibu wowote unaopatikana humu haiwezekani kuyahamisha kwa mtu mwingine yeyote zaidi yako.
+692	Mkataba huu unaongozwa na kusimamiwa kulingana na mujibu na sheria za Jamhuri ya Muungano wa Tanzania.
+693	M-Koba imeletwa ili kutatua changamoto mbalimbali ambazo vikundi vinakutana nazo katika mfumo wa kutumia pesa taslim kama usalama mdogo wa fedha zinazokusanywa, wanavikundi kutokuwa urahisi wa kukusanya pesa.
+694	M-Koba kwa familia na marafiki imeundwa kuwawezesha watejawenye vikundi vidogo-vidogo ambavyo vinaweza kuwa vya kifamilia au marafiki ambao wana lengo lakuweka akiba kwa kipindi cha muda mfupi au mrefu kwa kushirikiana na baadae kuzitoa na kutumia.
+695	M-Koba ni hatua nyingine kubwa ya kuipeleka Tanzania kwenye uchumi wa Kidijitali kwani inaondoa ulazima wa kubeba pesa taslimu kwenye shughuli za vikundi.
+696	M-Koba ni huduma mpya ya kuchanga Kidijitali inayoleta usalama wa fedha za wanakikundi, uwazi na urahisi wa kuchanga kutoka popote kupitia mtandao wa Vodacom.
+697	Mkopo utalipwa ndani ya siku 30. Ila unaweza kulipa kabla muda wa kulipa mkopo haupita na ukope tena.
+698	Mkuu wa Wilaya ya Mkuranga, Bw.
+699	Mnamo Januari 2007, Vodacom ilifanikisha kuunganisha wateja zaidi ya milioni tatu, na kuwa mtandao wa kwanza wa simu nchini Tanzania kurekodi namba kubwa ya wateja.
+700	Mnamo Julai 2000, Vodacom Tanzania ilikamilisha ujenzi wa miundombinu ya GSM na ikaanza rasmi kutoa huduma kwa wateja tarehe Agosti 14, 2000.
+701	Mnamo Machi 2006, Vodacom Tanzania, ili weka rekodi ya wateja milioni mbili.
+702	Mnamo Septemba 2004, Vodacom iliunganisha zaidi ya wateja milioni moja na kuendelea kukua kwa kasi.
+703	Mnamo Septemba 2005, Serikali ya Tanzania ilianzisha mfumo wa kutoa leseni, ambao ulikuwa na nia ya kuimarisha utoaji wa huduma za mawasiliano nchini na hivyo kuleta dhana halisi ya teknolojia.
+704	Mpango huu umewafanya wafanyakazi wa kampuni hiyo kuwa mawakala wa mabadiliko kwa kusaidia kutatua changamoto zilizopo katika jamii.
+705	Mpango wa Pamoja na Vodacom umekuwa ukitumiwa na wafanyakazi wa kampuni hiyo ili kurejesha fadhila kwa jamii.
+706	M-Pawa ikata gharama ya 9% kwa kila ombi la Mkopo.
+707	M-Pawa inatoza gharama ya 9% kwa maombi yote ya Mikopo.
+708	M-Pawa ipo kama rafiki mwaminifu ambae atakupa msaada wa maendeleao na kufanikisha mipango yako ya maisha.
+709	Mpendwa Wateja wa Vodacom, ili kuboresha zaidi huduma zetu, Tungependa kukuuliza maswali machache kulingana na uzoefu ulio nao wakati uliwasiliana na Tovuti yetu.
+710	M-Pesa App imetengenezwa kwa simu za Android na Apple IOS.
+711	M-Pesa itahakikisha DoB (Tarehe yako ya kuzaliwa) yako kukutumia namba kianzio mpya.
+712	M-Pesa kwa Biashara ni huduma maalum kwa biashara.
+713	M-Pesa mastercard inakuwezesha kulipia huduma, bidhaa, apps, bookings za mahoteli au safari, maudhui ya kidigitali n.k kutoka kwenye biashara mitandaoni popote duniani zinazopokea malipo kwa Mastercard.
+714	M-Pesa ni huduma inayotolewa na Vodacom Tanzania ambayo inaruhusu kuamisha fedha za umeme kutoka kwa Mteja mmoja kwenda Mteja mwingine, Mteja kwenda kwenye Kampuni na Kampuni kwenda kwa Mteja kupitia simu ya mkononi.
+715	Mpokeaji anaweza kuwa Mteja aliyesajiliwa na Vodacom Tanzania au mitandao mingine ya mkononi (Tanzania) ambaye anaweza kupokea SMS kutoka kwa Vodacom.
+716	Mpokeaji atapokea TOKEN VOUCHER na lazima atoe pesa hiyo ndani ya siku 7. Kama hujatoa, fedha zitarejeshwa kwa mtumaji.
+717	Mpokeaji lazima awe mteja wa M-Pesa aliyesajiliwa kikamilifu, Mteja asiyesajiliwa na M-Pesa wanaweza tu kupata malipo ya vocha kutoka M-Pesa ambayo inapaswa kutolewa ndani ya siku 7kwa Wakala wa M-Pesa aliyekaribu nawe.
+718	Mshindi (Lipa kwa M-Pesa) Droo ya wiki ya Nane Washindi 10- Droo ya wateja.
+719	Mshindi (Lipa kwa M-Pesa) Droo ya wiki ya Saba Washindi 10- Droo ya wateja.
+720	Mshindi (Lipa kwa M-Pesa) Droo ya wiki ya Sita Washindi 10- Droo ya wateja.
+721	Mshindi (Lipa kwa M-Pesa) Droo ya wiki ya Tano Washindi 10- Droo ya wateja.
+722	Mshindi (Lipa kwa M-Pesa) Droo ya wiki ya Tisa Washindi 10- Droo ya wateja.
+723	Mshindi wa gari anaweza kuwa mteja, wakala au mfanyabiashara anayepokea malipo kupitia huduma ya LIPA kwa M-Pesa Kuchangamkia fursa hii ni rahisi sana, Tumia M-Pesa kila wakati ili kuongeza nafasi zako za ushindi.
+724	Mshindi (Wakala wa M-Pesa) Mshindi (Lipa kwa M-Pesa) Droo ya wiki ya pili Grand Zawadi Winner (CAR) Washindi 10- Droo ya wateja.
+725	Mshindi (Wakala wa M-Pesa) Mshindi (Lipa kwa M-Pesa) Droo ya wiki ya tatu Washindi 10- Droo ya wateja.
+726	Msimbo wa QR inakupa njia ya haraka ambapo mipaji ataruka kuingiza taarifa za yule anayemlipa.
+727	Msimbo wa QR ni mfumo mpya wa huduma ya kifedha kwa njia ya simu Tanzania, inayorahisisha na kufanya miamala ya M-Pesa kuwa ya hali ya juu.
+728	Mtaja atapiga * ikifuatiwa na namba ya rafiki kutoka kwenye simu.
+729	Mtandao huu unatumia teknolojia za upatikanaji na usambazaji wa taarifa fasta kupitia mifumo ya mawasiliano yenye ufanisi na usalama wa hali ya juu.
+730	Mtandao huu unatumia teknolojia za upatikanaji wa fasta na za simu za hivi karibuni ili kuhakikisha salama na kijijini.
+731	Mtandao wa kibinafsi wa kibinafsi unakupa mfumo wa mawasiliano wa kibinafsi uliohifadhiwa.
+732	Mtandao wetu pia unawezesha uwezo wa kupata intaneti kupitia njia kadhaa (fixed data, intaneti, na 4G).
+733	Mteja akijiunga atapata Units tu atakazozitumia kupiga simu, kutuma SMS na kuperuzi katika mtandao.
+734	Mteja anaehamisha salio ni lazima awe na kiasi kisichopungua Tsh54 kwenye simu yake.
+735	Mteja anapojisajili, afute usajili kasha ajisajili tena, hatakuwa amestahiki kupata usajili wa siku tatu bure tena.
+736	Mteja anapojisajili kwa aina yoyote ya kifurushi cha “Fuata timu yako”, atashinda dakika tano za maongezi katika mtandao va Vodacom kila mara timu yake inaposhinda katika SOKA LETU (masharti ya kuingia yamo ndani ya maelezo haya).
+737	Mteja anaweza kubadili lugha ya namba yake kupitia Aplikesheni ya Vodacom.
+738	Mteja anaweza kukopa kiasi chochote ili mradi wamekidhi vigezo.
+739	Mteja anaweza kushinda mara moja tu katika raffo moja.
+740	Mteja anaweza tuma jibu kupitia ujumbe mfupi kwa 15389 ili kushiriki katika kura.
+741	Mteja anayeshiriki ni yule anayefurahia siku tatu za huduma ya bure ama yule anayelipa usajili kwa malipo yaliyotajwa hapa juu.
+742	Mteja asiyelipa hatastahiki kupata taarifa ile siku ambayo hakutozwa malipo ya huduma.
+743	Mteja asiyesajiliwa anaweza kuwa Vodacom au mteja kutoka mitandao mingine.
+744	Mteja asiyesajiliwa na M-Pesa ni yule ambaye anaweza kupokea fedha kutoka kwa mteja aliyesajiliwa wa M-Pesa.
+745	Mteja atakapoendelea kuitumia huduma hii atakuwa amekubaliana na msharti mapya yaliyowekwa.
+746	Mteja atakaribishwa na kupewa maelekezo namna ya kupiga kura kwa mchezaji bora kupitia namba 15389.
+747	Mteja ataona simu au kifaa anachotumia kimeonesha alama ya 4G kwenye alama ya mtandao.
+748	Mteja atapata dondoo za timu mbalimbali, taarifa, historia ya ligi kuu ya vodacom,ratiba za michezo, matokea na vingine vingi.
+749	Mteja atapata ujumbe mfupi wenye taarifa ikiwa ni mteja anayeshiriki.
+750	Mteja atapiga namba 0901761234 na kisha kujiunga na huduma Kisha mteja atapata uthibitisho wa kujiunga na huduma.
+751	Mteja atapokea SMS kumfahamisha kuwa ombi limefanikiwa: Ombi lako la mkopo wa M-Pawa limekubaliwa.
+752	Mteja atatozwa Tsh 100 kila siku baada ya siku tatu za mwanzo.
+753	Mteja atatuma jina la mchezaji kwenda 15386 na kupokea pointi wakati wa kupiga kura.
+754	Mteja ataweza kuhama na dakika,MB na SMS ambazo hazijatumika pale muda wa matumizi wa kifurushi unapokwisha.
+755	Mteja kama huyo anaweza kuomba namba kianzio nyingine.
+756	Mteja naweza kuomba kurudisha miamala ndani ya muda gani?
+757	Mteja wa M-Pesa atapokea pesa kulingana na viwango vya M-Pesa((Tier) Kundi Njia) alilopo.
+758	Mteja yoyote anapata nafasi ya kushinda mamilioni ya pesa.
+759	Mteja yoyote wa Vodacom anaweza kupata pesa kutoka nje ya nchi kupitia Moneygram lakini kutumia / kupata fedha hizo lazima uwe mtumiaji wa M-Pesa aliyesajiliwa.
+760	Mtumaji ataomba kurejeshewa fedha hiyo kwa kutuma ombi Huduma kwa Wateja Vodacom.
+761	Mtumaji atatozwa na Moneygram kwa huduma.
+762	Mtumaji au mpokeaji wa pesa kimakosa anaweza kurudisha muamala kwa kufuata maelekezo kama yalivyo hapo juu.
+763	Mtumiaji au mpokeaji atatakiwa kutumia namba ile ile ambayo ametumia kutuma au kupokea pesa kimakosa ili kurudisha muamala.
+764	Mtumiaji wa Vodacom ambaye hajasajiliwa na M-Pesa atapokea taarifa ya SMS kuwajulisha kuhusu miamala hiyo.
+765	Muamala hautoweza kurudishwa na mteja aliyekosea kutuma atapokea meseji ya kumtaarifu kwamba hatoweza kurudishiwa muamala.
+766	Muamala huu ni BURE kwa mteja na mfanyabiashara.
+767	Muamala wa hapo kwa hapo kutoka kwa mtumaji hadi mpokeaji.
+768	Muda wa malipo utaongezwa kwa siku 30 pamoja na riba ya 9% zaidi.
+769	Muda wa mkop ni nini?
+770	Muda wa mwisho wa matumizi utakuwa wa kifurushi kipya.
+771	Muito kwa Mpigaji ni huduma inayowapa wateja Vodacom uwezo maalum kuweka au kegeuza miito kwa mpigaji.
+772	Muktasari/Vichwa vya Habari katika Kanuni na Masharti haya ni kwa madhumuni ya urahisi tu na hayaadhiri tafsiri ya Mkataba huu.
+773	Mwanzilishi wa muamala lazima awe Mteja aliyesajiwa Vodacom na M-Pesa.
+774	Mzazi Jennifer Shumbusho ambaye pia ni mfanyakazi wa kituo hicho alieleza furaha yake kupokea vifaa vitakavyosaidia watoto anaowalea “ahsanteni kwa ukarimu wenu na kwa kutukumbuka.
+775	“Naamini kwamba kila mmoja wetu anatambua au amejiunga katika SACOSS, Kikoba au upatu.
+776	Nambari ya toll-free ni nambari maalum zinazopewa kwa kampuni ili wateja wao waweze kuwasiliana nao kwa urahisi bila gharama kwao.
+777	Namba ya mawasiliano * Anuani ya Barua pepe * Huduma unayohitaji/unayopendelea?
+778	Namna gani naweza kuweka huduma?
+779	Nani anastahili kutumia huduma ya M-Pawa?
+780	“Napenda kuwahimiza wateja wetu kuungana na sisi katika mageuzi haya ya kidijitali kwani ulimwengu umebadilika, ili kuendana na wakati basi yatupasa hata sisi kwa pamoja tukubaliane na mabadiliko haya.
+781	Nawasihi mabalozi hawa kutoa mafunzo kwa jamii zao kuhusu fistula kwa kuandaa semina ambazo zitaambatana na majadiliano ya changamoto mbali mbali zinazotokana na fistula”.
+782	Nawezaje kuomba taarifa fupi za M-Pawa yangu?
+783	NB: Kiasi cha juu cha kujiondoa kwenye ATM ni 400,000 kwa kila muamala na 1,000,000 kwa siku.
+784	NB: Tuma BURE mpaka mara 5 tu kwa siku.
+785	Ndani ya miezi minne ya kwanza wateja 50,000 waliunganishwa.
+786	Ndio, ikiwa kuboresha/kupakua ni lazima, basi toleo la programu ya zamani litazimwa moja kwa moja.
+787	Ndio, Inawezekana kuwezesha zaidi ya akaunti moja ya M-Pawa,ikiwa tu mteja ana akaunti ya M-Pesa zaidi ya moja.
+788	Ndio, kukopa zaidi ya mara moja kunaruhusiwa lakini mteja anatakiwa asizidi ukomo wa mkopo aliopangiwa.
+789	Ndio, kuna gharama za intaneti kwa kuangalia vipindi kutoka Aplikeshaeni ya KWESE TV na ndio maana Vodacom inakupa vifurushi vya KWESE vyenye punguzo.
+790	Ndio umnunuliaopo rafiki pia anapata faidia za ziada.
+791	Ndio, unaweza kuchagua kusitisha huduma ya kujirudia ya RED wakati wowote na hata pale kifurushi kitapoisha muda wa matumizi.
+792	Ndio, unaweza kununua kifurushi chochote cha RED mahali popote Tanzania.
+793	Ndio, unaweza kununua kifurushi kama hicho cha RED na unaweza kununua zaidi ya mara moja.
+794	Ndio, unaweza ukatumia M-Pawa ukiwa nje ya Tanzania kama ilivyo kwa M-Pesa ingawa kuweka na kutoa pesa itafanyika tu kwa wakala ukiwa Tanzania.
+795	Ndio, wakati wanaongea wanaweza kubonyeza ‘1’, ‘2’ au ‘3’ kubadili sauti zao kwenda sauti nyingine zilizopo.
+796	Ndiyo, chaguo kutuma pesa kwa wateja wasiosajiliwa linapatikana kwenye orodha ya M-Pesa.
+797	Nenda kwenye “angalia kikomo cha mkopo”
+798	Neno ya siri ya kianzio litatumwa kwenye simu yako kwa njia ya SMS.
+799	Ni gharama kiasi gani utatozwa kwa kupiga namba ya Ramadhani?
+800	Ni huduma ambayo inaruhusu wateja wa Vodacom ‘M-Pesa’, ‘Tigo Pesa’ na wateja wa ‘Airtel Money’ kutuma na kupokea fedha na kutoka kwenyenye akaunti zao.
+801	Ni huduma inayokuweza kubadili sauti, mfano sauti ya kuchekesha au sauti nyinginezo wakati unapopiga simu kwa rafiki ukitumia laini ya Vodacom.
+802	Ni huduma inayowawezesha wateja wa Vodacom kukopa muda wa maongezi au vifurushi na kasha kulipa na riba.
+803	Ni huduma kwa wateja wa Vodacom wa malipo kabla inayowaweza kuhamisha salio kwa wateja wengine wa Vodacom wa malipo kabla.
+804	Ni huduma mpya ambayo Vodacom imewawezesha wateja kuweka vifurushi wavitavyo kujirudia wakati vinapomaliza muda wa matumizi.
+805	Ni huduma ya BURE kwa wateja wa Vodacom wa malipo kabla(Prepaid) kuomba kuongezewa salio kutoka kwa mteja mwingine wa Vodacom kwa njia ya SMS.
+806	Ni kiasi gani cha juu unaweza kuhamisha kutoka M-Pesa kwenda M-Pawa au M-Pawa kwenda M-Pesa?
+807	Ni Kodi ya ongezeko la thamani inayokatwa kwenye kila hatua ya uzalishaji wa bidhaa na huduma na wakati wa mauzo kwa mlaji.
+808	Ni kwa kiasi gani umeridhika na kujua matumizi yako kupitia aplikesheni ya Vodacom?
+809	Ni lazima kuweka maelezo kwenye sehemu hii.
+810	Ni lini sheria hii ilianza kutekelezwa?
+811	Ni mara ngapi unaweza kuweka au kutoa pesa kukoka M-Pesa kwenda akaunti ya M-Pawa?
+812	Ni mchakato ambapo wateja walisajiliwa wa Vodacom M-Pesa wanaweza kutuma fedha na kupokea fedha kutoka kwa wateja wa Safaricom M-Pesa.
+813	Ni mpango wenye vifurushi na Malipo ya jinsi unavyotumia.
+814	Ni mtandao wa kuaminika, wenye gharama nafuu na Intaneti ya haraka zaidi ya Tanzania ukiwa na laini yako ya Vodacom.
+815	Ni muda kiasi gani mteja anaweza kupiga na kusikiliza huduma?
+816	Ni muendelezo maalum wa Muito kwa Mpigaji unaowezesha Jina lako kuwekwa kama muito.
+817	Ni muendelezo maalum wa Muito kwa Mpigaji unaowezesha Wafanya Biashara na Watu binafsi kubadili muito kuwafahamisha wafanyakazi wenzao, marafiki au wanafamilia kuwa hawana nafasi ya kupokea simu.
+818	Ni namna gani mteja ataomba mkopo kupitia M-Pawa?
+819	Ni namna gani utatoa pesa kutoka akaunti ya akiba?
+820	Ninapongeza juhudi za taasisi ya Vodacom Tanzania Foundation katika kukabiliana na matatizo ya kiafya yatokanayo na uzazi nchini.
+821	Nini kinachangia uwe na sifa za kupata mkopo?
+822	Nini maana ya Kuzuru?
+823	Nini maana ya M-Pesa rudisha muamala?
+824	Nini mahitaji ya M-Pawa?
+825	Nini manufaa ya kutumia M-Pawa?
+826	Ni spidi ya hali ya juu ukiwa na Vodacom kwa matumizi yoyote na popote ulipo.
+827	Ni wajibu wako kupitia vigezo na masharti haya mara kwa mara.
+828	Njia hizo ni kama kutumia mitandao ya jamii, Wavuti, applikesheni kama my Vodacom na M-Pesa, kutumia taarifa zilizorekodiwa kupitia namba ya huduma kwa wateja (IVR).
+829	Ofa gani znapatikana kwenye Ya Kwako 2?
+830	Ofa Zaidi zitaelezewa kwa wateja ili kuongeza ushiriki na uaminifu wa huduma za “ya kwako tu ofa”
+831	Ofa za Ya Kwako 2 ni huduma inayowapatia wateja wa malipo ya awali wa Vodacom ofa kabambe za Vifurushi vya kupiga simu, Intaneti au SMS kwa gharama nafuu kabisa kulingana na tabia za matumizi binafsi ya kila mteja.
+832	Ofa za Ya Kwako 2 ni kwa ajili ya wateja wote wa Vodacom wa malipo ya awali.
+833	Ofa za Ya Kwako 2 zimetengenezwa kwa kuzingatia matumizi binafsi ya kila mteja kwahiyo kila mteja atapata ofa inayoendana na mahitaji yake binafsi kwa upande wa vifurushi kabambe kabisa na thamani zaidi ya pesa zako.
+834	Pakua na kufurahia aplikesheni na gemu mbalimbali na za kusisimua kwenye Smatifoni yako kupitia Vodacom Appstore.
+835	Pale kifurushi cha RED kinapoisha muda wa matumizi, faida zote za ziada nazo zitakoma.
+836	Pale wanapojiunga na huduma, watweza kupiga simu kwa marafiki kwa kutumia sauti walizobadili.
+837	Pamoja na njia mbali mbali za kurudisha muamala endapo utakakosea na kujua jinsi ya kujihudumia pale ambapo utakuwa umesahau namba ya siri ya M-Pesa.
+838	Pamoja, tunaendesha mabadiliko ya kudumu nchini kote ili kujenga matazamio yajao mazuri.
+839	Pata bando kwa gharama nafuu ambazo zinakidhi mahitaji yako yote, hii ni kwa ajili yako wewe tu!
+840	Pata maelezo zaidi juu ya mchakato wa kisayansi.
+841	Pata Smartphone unayoipenda kwa kulipa kidogo kidogo kupitia M-Pesa.
+842	Pata vifurushi vya intaneti mara mbili vinavyopatikana tu kwa wateja wenye laini ya 4G na kifaa chenye uwezo wa 4G.
+843	Pesa zitakazobaki kwenye akaunti ya mteja bila kutumika kwa zaidi ya miaka mitano zitapelekwa kwenye mamlaka husika kulingana na sheria za nchi ya Tanzania.
+844	Pia inakuwezesha kutuma na kupokea taarifa za miamala na matangazo kwa bei nafuu.
+845	Pia inaweza kukupa taarifa kuhusu tabia za uendeshaji wa madereva wako na kukutumia ujumbe pale wanapo kata kona kwa nguvu sana, kufunga breki ghafla, au kuendesha kwa kasi sana.
+846	Pia kama mteja hajatumia mtandao kwa muda wa siku 60 atapoteza pointi zote alizozikusanya.
+847	Pia kuna faida nyingi nyingine kama usimamizi wa mafuta, kuweka mipaka ya uendeshaji, taarifa ya dharura na hatari, utambulishi wa madereva wote na vinginevyo.
+848	Pia mteja anaweza kushinda tiketi kuangalia timu aipendayo ikicheza uwanjani au kuapata nafasi ya kukutana na mchezaji ampendae kwa kumpigia kura mchezaji bora na kuongeza nafasi ya kushinda zawadi kwa kupokea pointi zaidi!
+849	Pia unakubali na kuidhinisha Benki kuomba Vodacom kuhusu taarifa zinazohusiana na matumizi yako ya Huduma ya M-PESA na mfumo wa M-PESA kama Benki inavyozihitaji kwa lengo la kukupa Huduma ("Taarifa za M-PESA").
+850	Pia unaweza kutoa pesa kwenye kadi yako na kuzirudisha kwenye akaunti kuu ya M-Pesa.
+851	Pia utapata bure taarifa yako fupi ya M-Pesa, huduma ya SOKONI na Ujumbe wa tafadhali za waliokupigia.
+852	Pia wanahakikisha Taasisi zote za kifedha zinatii sharia mpya ya VAT kuhusu malipo ya ada za makusanyo.
+853	Piga simu, peruzi intaneti, tuma SMS, pata taarifa muhimu na burudani kwa kutumia laini ya Vodacom.
+854	Pinduapindua ni aina maalum ya vifurushi ambapo mteja anapata uniti zinazompa uhuru wa matumizi.
+855	Pindupindua, REDna Cheka zinakupa uhakika wa kufurahia zaidi matumizi ya laini yako ya Vodacom.
+856	PIN hi hio itatuka kwenye akaunti ya M-Pesa na M-Pawa.
+857	PIN inapaswa kukumbukwa tu.
+858	Principal regions for the program are: Mbeya, Mwanza, Iringa, Songwe, Morogoro, Tanga, Mara, Geita and Njombe.
+859	Programu haiwezi kupakuliwa kwa kutumia WIFI.
+860	Programu itakuwa bure kwenye matumizi lakini data (MB) hutumiwa wakati wa mchakato wa kupakua.
+861	Programu ya M-Pesa itafanya kazi kwenye Android 4.1 (Jellybean) na IOS 9 na kuendelea.
+862	Programu ya M-Pesa ni Programu ya simu ya mkono inayotolewa na Vodacom Tanzania PLC kwa wateja wa M-Pesa kwenye simu za Android na IOS kutumia huduma za M-Pesa.
+863	Programu ya 'M-Pesa Tanzania' inapatikana kwa kupakuliwa kutoka kwenye Hifadhi ya Google Play rasmi na Hifadhi ya App ya IOS chini ya jina la programu 'Vodacom Tanzania PLC'.
+864	Programu ya mtandao haipatikani kwa sasa.
+865	Promosheni hii imeandaliwa na VODACOM akijulikana kama ("Promota").
+866	Promosheni hii ni kwa wateja wote wa M-Pesa (wapya na wa muda mrefu).
+867	Promosheni inawapa wateja nafasi ya kushiriki kweye shindano ambalo wateja wanaweza kushinda zawadi kama zinavyoelezewa kwenye vigezo na masharti haya.
+868	Promota ana haki ya kutokuingia kwenye majadiliano/makubaliano ya maandishi au kuwasiliana na washiriki wa promosheni isipokua tu kwa mujibu wa vigezo na masharti ya promosheni hii au kwa mujibu wa sheria za Jamhuri ya Muungano wa Tanzania.
+869	Promota atajaribu kuwasiliana na mshindi kwa muda wa siku 10 baada ya jina lake kutambulika kama mshindi.
+870	Promota atatoka taarifa za mshiriki kwa mhusika huyo wa tatu.
+871	Promota wa promosheni hatatoa taarifa binafsi za washiriki wa promosheni kwa mtu yeyote yule asiyehusika isipokuwa tu pale anapotakiwa kufanya hivyo kwa mujibu wa sheria za Jamhuri ya Muungano wa Tanzania.
+872	Riba italipwa kwenye Akaunti ya amana ya M-Pawa kwa vipindi mbalimbali kama ilivyoainishwa na Benki na / au juu ya tarehe husika za ukuaji wa amana hizo kwa kiwango kama ambacho kinaweza kuamuliwa na Benki.
+873	Riba ya mkopo ni ipi ukitumia M-Pesa?
+874	Ripoti zinapatikana kwa wakati na pia kwa wadau wote katika shule.
+875	Salama: Ni salama sana kutoka kwa mtumaji kwenda kwa mpokeaji.
+876	Salio jipya la M-Pesa ni Tsh XXXX”.
+877	Sambabmba na hayo, vigezo na masharti haya vinaweza kukupa jukumu la kulipa gharama zaidi na promota anaweza kuwa na malalamiko na haki dhidi yako.
+878	Sanga pia aliishukuru kampuni ya Vodacom huku akifafanua namna ambavyo msaada huo utasaidia kuhudumia watoto wenye ulemavu nchini na kuhimiza taasisi zingine kufuata nyayo za Vodacom.
+879	Sasa chaneli ya Free sports inapatikana Tanzania kupitia Vodacom.
+880	Sasa tuna mfumo salama zaidi wa vikundi vyetu na tunachanga kwa uwazi kwani mfumo huu unaruhusu kuonekana kwa shughuli za kikundi" alisema Abdallah Mkenga, mwenyekiti wa kikundi kimojawapo cha Vicoba aliyehudhuria hafla ya uzinduzi.
+881	Sheria ya VAT ni nini?
+882	Shirika la Afya duniani (WHO) linakadiria kwamba wanawake 3000 hupata tatizo la fistula kila mwaka nchini Tanzania.
+883	Shule na vyuo vingine vinaongezwa hivi karibuni.
+884	Shule pia itapokea uthibitisho kwa njia ya SMS na wavuti.
+885	Siku 3 za mwanzo zitakuwa bure!
+886	Siku ya tatu ya huduma ya bure, mteja atapata ujumbe wa ukumbusho kuwa huduma ya bure itakatika na atalipishwa kuanzia siku ufuatayo na kumpa nafasi ya kuchagua kama anataka kufuta usajili.
+887	SIM Manager ni huduma inayowezesha kampuni kusimamia utumiaji, gharama na uwezo wa kuongeza salio kwenye kadi za SIM zote katika kampuni.
+888	Sio lazima kuwezesha huduma ya kujirudia ya RED kabla ya kununua kifurushi cha RED.
+889	Sisi kama kampuni ya kidijitali, tumejikita zaidi katika kutumia teknolojia kutatua changamoto za wateja wetu,” alisema Mkurugenzi wa Huduma kwa Wateja bi, Harriet Lwakatare.
+890	Sisi na wadau wanaochaguliwa kwa umakini hutumia vidakuzi kuonyesha matangazo yenye ujumbe husika mtandaoni.
+891	Soma ushauri kutoka kwa WHO na kupata taarifa zaidi kwenye tovuti ya EMF ya tovuti.
+892	Soma zaidi kuhusu mipango ya utafiti wa sasa.
+893	Suluhisho hili linalenga kusaidia mahitaji ya vikundi rasmi vya kuweka akiba na mikopo (VICOBA, VSLAs, CB) pamoja na vikundi mbali mbali visivyo rasmi.
+894	Swala lolote na malalamiko ambayo unaweza kuwa nayo kuhusiana na Huduma zitashughulikiwa na Benki kupitia Kituo cha Huduma Kwa Wateja.
+895	Swap line laini yako BURE katika Vodashop yoyote ndani ya Dar es Salaam upate 4G na bonasi ya GB4 wiki nzima.
+896	Taarifa fupi ya M-Pawa itatoa maelezo ya miamala 5 (mitano) ya mwisho (au idadi nyingine ya miamala kama itakavyoainishwa na Benki) katika Akaunti yako ya M-Pawa iliyotokana na Kifaa chako.
+897	Taarifa hizo zinapokelewa bila kuchelewa na mifumo ya cloud ambayo hutoa ripoti na taarifa ambazo zitawanufaisha wadau mbalimbali.
+898	Taarifa za simu au kifaa chako zitaonekana kama hapo chini.
+899	Taarifa zote za washiriki wa promosheni zinazohusiana na promosheni hii zitachapishwa kwenye www.facebook.com/tzvodacom na pia zitapatikana kwa kupiga namba 100 kuongea na huduma kwa wateja wa promota.
+900	Taasisi ya Vodacom ya Jamii imesaidia wanawake na wasichana nchini kote kuboresha afya zao, upatikanaji wa elimu bora na kujenga makampuni mapya kwenye nyanzo za kujiajiri.
+901	Taasisi ya Vodacom ya Jamii inasimamiwa na timu kuu ya utendaji kila siku katika kuhakikisha malengo yake yanafanikishwa katika kiwango cha juu kwa gharama za uendeshaji za chini.
+902	Tafadhali kumbuka kuwa washindi hawatapewa taarifa kupitia njia ya SMS.
+903	Tafuta kifurushi kinacho kidhi mahitaji yako.
+904	Tembelea duka lolote la Vodacomkwa maelezo Zaidi.
+905	Tembelea Wakala yeyote wa M-Pesa na ufuate utaratibu wa kawaida wa kutoa pesa.
+906	Thibitisha kwenye ujumbe mfano “Lipa mkopo Tsh.
+907	Thibitisha maombi ya mkopo kwa kubonyeza ok.
+908	Tofauti na promosheni zingine, kampeni ya kuhamasisha ushiriki inatoa ofa za kuingia kwenye droo sambamba na muda wa bando kuisha(bando moja ya siku ni sawa na tiketi 1 ya droo,bando moja ya wiki ni sawa na tiketi 7 za droo.
+909	Tofauti na promosheni zingine, TUSUA MAPENE inakupa wigo mpana wa njia za kushiriki na zote zikiwapa wateja wetu nafasi sawa za ushindi.
+910	Tuma Pesa kwenda Kenya kwa urahisi, usalama na haraka zaidi kuliko njia yoyote ya kutuma pesa.
+911	Tumejitahidi sana kujenga miundombinu itakayotoa muunganisho wa fiber kote nchini.
+912	Tunahitaji kukabiliana na mzigo huu wa akina mama wenye matatizo haya katika jamii zetu,” alisema Afisa Mtendaji mkuu wa hospitali ya CCBRT Bi Brenda Msangi.
+913	“Tunajali muda na kazi za wateja wetu hivyo tumeona ni wakati muafaka wa kuwajulisha na kuwaelimisha kuwa tumeongeza ubunifu katika kuwahudumia.
+914	“Tunajua wewe ni tofauti wa wengine, na mahitaji yako pia ni ya kipekee.
+915	Tunakupa uhakika wa mawasiliano na huduma nyingi, nafuu na zenye ubora wa hali ya juu popote pale ulipo iwe nyumbani, ofisini au safarini.
+916	Tunakupa uwezo wa kufurahia bando zinazoendana na matumizi yako ya kila siku.
+917	"Tunashukuru kuwa Vodacom na TPB wamekuja na huduma mpya ambayo imetatua matatizo tuliyokuwa nayo.
+918	Tunatarajia utajiunga na sisi.
+919	Tunatazama ukaguzi wa kitaalamu kwa ushauri juu ya vifaa vya simu, masts na afya.
+920	Tunatazamia WHO kutambua na kuzingatia mahitaji ya utafiti na kujitoa kwa kusaidia utafiti wa kisayansi huru katika maeneo haya.
+921	Tunatoa huduma bora kwa Gharama nafuu Zaidi, huku tukikupa mawasiano bora na yenye uhakika.
+922	Tunatumia vidakuzi kuboresha uzoefu wako wa kutumia intaneti na hutusaidia kuboresha tovuti yetu.
+923	Tupia video yenye muonekano wa kijanja katika ukurasa wako kisha tag @VodacomTanzania na uingie kwenye droo ya kujishindia smartphone yenye GB10 kila mwezi kwa miezi 3 na kuonekana kwenye Digital Billiboard za jijini Dar Es Salaam.
+924	Tusua Mapene ni promosheni mpya ya bahati nasibu kwa wateja wa Vodacom pekee.
+925	Tuzo Pointi ni programu ya Loyalty inayowawezesha wateja wa Vodacom kupata TUZO Pointi kila wanapoongeza salio kwenye simu zao na wanapotumia huduma za M-Pesa zenye makato.
+926	TUZO pointi zinadumu kwa muda wa miezi 12 kutoka kipindi umezipata.
+927	Uamuzi wa promota katika suala hili utakua wa mwisho.
+928	Ucheshi ni kitulizo cha moyo.
+929	Ufikiaji wowote usioidhinishwa kwenye Akaunti yako ya M-Pawa au uvunjaji wowote wa usalama au uharibifu wowote au upatikanaji wa taarifa yako au uharibifu wowote au wizi au uharibifu kwa Vifaa vyako vyovyote.
+930	Ufumbuzi wetu unalenga kukidhi mahitaji makubwa ya mawasiliano ya makampuni madogo na ya kati.
+931	Uharibifu wowote na gharama zinazolipwa kwa Benki kwa ajili ya madai yoyote dhidi ya Benki kwa ajili ya malipo kwa hasara ambapo hali fulani iko ndani ya udhibiti wako.
+932	Ujumbe huo utaeleza sababu za kukataliwa kwa ombi lako.
+933	Ukiomba Benki ili kusitisha miamala au maagizo yoyote baada ya ombi lililopokelewa na Benki kutoka kwako, Benki inaweza kwa uwazi kabisa kusitisha miamala au maagizo hayo lakini haitakuwa na wajibika kwa hilo/kufanya hivyo.
+934	Ukiwa kwenye kujirudia, kifurushi chako cha bei hihio kitajirudia.
+935	Ukiwa na akaunti ya ugawaji ya M-Pesa, biashara yako inaweza kugawa pesa kwa kiasi kikubwa, haraka, hakika na kwa njia ilio salama zaidi.
+936	Ukiwa na intaneti isiyokata unaweza; kutuma barua pepe, kufanya biashara, kuangalia video na kuwafurahisha wateja wako.
+937	Ukiwa na M-Pesa, Una uwezo wa kutuma na kupokea pesa kutoka Kenya papo kwa papo kwa ndugu, jamaa au marafiki wanaotumia Safaricom.
+938	Ukiwa na namba ya toll-free inaipa kampuni yako umaarufu na kukuza biashara yako zaidi.
+939	Ukiwa na Pindua units unapata uhuru wa kuamua matumizi yake iwe kupiga simu,kuperuzi au kutuma sms kwa sababu matumizi ya uniti unajipangia mwenyewe.
+940	Umuhimu kwenye matumizi unapewa vifurushi vya Cheka kwanza.
+941	Unachotakiwa kufanya ili kufurahia zawadi hizi ni kutumia akaunti yako ya M-Pesa mara nyingi zaidi uwezavyo.
+942	Unahakikisha kuwa Namba yako ya Siri (PIN) ya M-PESA haijulikani au kuwa na mtu yeyote asiyeidhinishwa.
+943	Unahitaji kuweka sahihi baada ya kuthibitisha maelezo yaliyochukuliwa kuhusu wewe ni sahihi.
+944	Unakubali kuwa hauna madai dhidi ya Benki kwa uharibifu unaosababishwa na hasara, kuchelewesha, kutokuelewana, uharibifu, unakilishaji/marudio au makosa mengine yoyote kutokana na usafirishaji wa mawasiliano yoyote kuhusiana na Akaunti ya M-Pawa.
+945	Unakubali kuwa kushindwa kwa sehemu yako kufuata taratibu za usalama zilizopendekezwa kunaweza kusababisha uvunjaji wa siri ya Akaunti yako ya M-Pawa.
+946	Unakubali na kutambua kwamba utawajibika tu kwa uhifadhi na matumizi sahihi ya Vifaa vya yako na kwa kuweka namba yako ya siri ya M-PESA kwa usalama.
+947	Unapaswa kuweka upya PIN yako mara moja!
+948	Unapoomba mkopo kutoka Benki, maombi yako yatahesabiwa kwa mujibu wa tathmini ya ukaguzi wa mkopo wa Benki.
+949	Unaruhusiwa kujiunga mara nyingi na kwa wakati wowote kadri upendavyo.
+950	Unaruhusiwa kujiunga mara nyingi na kwa wakati wowote kadri upendavyo katika huduma ya Ofa Maalum.
+951	Unaruhusiwa kununua vifurushi vingine uvipendavyo.
+952	Unataka Huduma ya Nipige Tafu?
+953	Unatakiwa kufuata maelekezo yote, taratibu na masharti yaliyomo katika Kanuni na Masharti haya na nyaraka/maelekezo yoyote inayotolewa na Benki kuhusu matumizi ya Mfumo na Huduma.
+954	Unatakiwa kuwa na salio la kutosha ili kijirudie wakati kile kifurushi cha mara moja hakitajirudia.
+955	Unatambua na kukubali kwamba Benki hutoa Akaunti ya M-Pawa tu kwa njia ya kielektroniki na unakubali kufanya biashara na Benki na kutumia Akaunti ya M-Pawa tu kwa njia ya kelectroniki kupitia Menyu ya M-Pawa kwenye mfumo wa M-PESA.
+956	Unatambua na kukubali kwamba kukubaliwa ombi lako la Akaunti ya M-Pawa na Benki haina uhusiano wowote kati ya wewe na Vodacom zaidi ya Kanuni na Masharti yanayotumika kwa Akaunti yako ya M-PESA mara kwa mara.
+957	Unawezaje kuangalia kiasi unachoweza kukopa?
+958	Unaweza kufanya hivyo kupitia kwenye orodha ya M-Pesa au kwa kupiga simu Vodacom Huduma kwa wateja.
+959	Unaweza kufunga Akaunti yako ya M-Pawa wakati wowote kwenye Kituo chochote cha Huduma Kwa Wateja.
+960	Unaweza kufungua Akaunti ya M-Pawa kwa njia ya maombi ya kieletroniki yaliyofanywa na wewe kwa kutumia Vifaa vyako kupitia Menyu ya M-Pawa kwenye mfumo wa M-PESA.
+961	Unaweza kuingia Vodacom Live moja kwa moja kupitia simu yako – na ni BURE kuperuzi!
+962	Unaweza kuomba taarifa au matukio ya ripoti kuhusiana na Akaunti yako ya M-Pawa kutoka kwa Benki kwa kutumia vifaa vyako ("Taarifa fupi ya M-Pawa").
+963	Unaweza kupakua muziki, video, gemu za kusisimua, pata habari za papo hapo, angalia TV kwenye simu yako na kufanya vitu vingi vinginevyo….
+964	Unaweza kupata mkopo wa pili kama unalipa mkopo ulionao sasa.
+965	Unaweza kupata taarifa fupi ya M-Pawa au nakala ya tarifa iliyochapishwa na Benki inayohusu Akaunti yako ya M-Pawa kutoka Kituo cha Huduma kwa Wateja.
+966	Unaweza kuwasiliana na Kituo cha Huduma kwa Wateja ili kutoa taarifa za migogoro yoyote, madai au repoti ya utofaiti ya Akaunti ya M-Pawa.
+967	Unaweza ukanunua kifurushi kingine cha RED cha aina nyingine katika mwezi huo huo au kununua kifurushi cha ziada cha RED au utumie kwa gharama za malipo kabla (Tsh 1 kwa sekunde) kuimiza mahitaji yako kwa siku zilizobakia.
+968	Ungependa kua na uwezo wa kusimamia matumizi na huduma za simu za kampuni yako?
+969	Ununuzi wa kifurushi zaidi ya kimoja unaruhusiwa ambapo dakika, intaneti na SMS zitahamia kwenye kwenye kifurushi kipya na salio litakuwa jumla ya kifurushi kipya na cha zamani cha namna moja.
+970	Ushahidi huchukuliwa na paneli za wataalamu katika uwanja huu.
+971	Ushindani kwenye mawasiliano umeongezeka kwa kasi kubwa miaka michache iliyopita Tanzania.
+972	Ushiriki katika promosheni hii utaashiria kukubaliana kwako na vigezo na masharti haya.
+973	Usuluhishi huo utafanyika kwa lugha ya Kiingereza na Kiswahili nchini Tanzania kwa mujibu wa Kanuni za Usuluhishi wa Taasisi hiyo na kwa mujibu wa masharti ya Sheria ya Usuluhishi Cap 15 RE 2002.
+974	Utachukua tahadhari zote za busara ili kugundua matumizi yoyote yasiyoidhinishwa ya Mfumo na Huduma.
+975	Utafanya malipo yote kwenda Benki kwakuzingatia Mkopo na ada ya miamala kwa kutumia Huduma ya M-PESA na Mfumo isipokuwa imakubalika vinginevyo na Benki kwa hiari yake.
+976	Utafuata ujumbe mfupi wa kuthibitisha kutengenezwa kwa akaunti yako.
+977	Utakuwa na jukumu la kuhakikisha utendaji sahihi wa Vifaa vyako.
+978	Utakuwa na jukumu la malipo ya ushuru wowote inayotokana na taarifa hizo zilizochapishwa katika Kituo cha Huduma ya Wateja.
+979	Utakuwa na jukumu la malipo ya ushuru wowote inayotokana na Vodacom katika kutoa taarifa fupi ya M-Pawa kwako.
+980	Utakuwa wakati wote kufuata taratibu za usalama ulizoambiwa na Benki mara kwa mara au taratibu nyingine ambazo zinaweza kutumika kwa Huduma mara kwa mara.
+981	Utaonekana kuwa umeisoma, umeelewa na kukubali Sheria na Masharti haya: -
+982	Utapokea SMS nyingine kama ombi halikufanikiwa.
+983	Utapokea ujumbe kukufahamisha kama unastahili kupata mkopo au maelezo yako, ukiwa au huna mkopo.
+984	Utapokea ujumbe wa uthibitisho kuwa M-Pawa inafanyia kazi ombi la mkopo.
+985	Utapokea uthibitisho kwa njia ya SMS ukiwa na maelezo ya malipo yako.
+986	Utatakiwa kwenye kwenye menu ya bidhaa kununua tena kifurushi.
+987	Utatalipwa faida itokanayo na salio la akiba uliloweka.
+988	Utawajibika kwa mashtaka kutokana na mtoa huduma yeyote anayekupa uhusiano na Mtandao, na Benki haitakuwa na jukumu la kupoteza au kucheleweshaji uliosababishwa na mtoa huduma yeyote.
+989	Utaweza kuangalia na kuhamisha kiasi kilichokusanywa kwenda benki ya kampuni wakati wowote kupitia tovti ya M-Pesa.
+990	Utaweza kupokea malipo ya ana kwa ana au kutumia mtandao, ukiwa na akaunti ya makusanyo ya M-Pesa Biashara.
+991	Utaweza kutumia akaunti yako kwenye simu yako kwa kutumia laini ya Vodacom kupitia menu ya M-Pesa.
+992	Uthibitisho utapokelewa kwa maombi yaliokuwaliwa au yaliokataliwa.
+993	Uwasilishaji wa programu Maombi yanaweza kuwasilishwa moja kwa moja kwenye Vodacom Tanzania HQ - Mlimani mji Park namba ya jengo la 1, au kwa posta au barua pepe.
+994	Uwezo kwa mteja kubadili au kuweka muito autakao, umefungua fursa mpya kwa wateja wa Vodacom.
+995	Vifuatavyo ni vigezo & masharti.
+996	Vifurushi hivi vinaweza kununuliwa wakati wowote( ikiwa pamoja na siku za mapumziko au mwisho wa wiki).
+997	Vifurushi vina dakika za kutosha za mitandao yote, vifurushi vya intaneti(MB), SMS na dakika za kimataifa.
+998	Vifurushi vipo 6 vya Pinduapindua kama ifuatavyo pamoja na faida za ziada atakazopata mteja akijiunga.
+999	Vifurushi vya Cheka Bombastik ni vifurushi vya Vodacom vinavyowawezesha wateja kupiga simu, kutuma SMS na kutumia intaneti kwa gharama nafuu.
+1000	Vifurushi vya nyongeza vinaweza kununuliwa pale unapokuwa na kifurushi cha RED.
+1001	Vifurushi vya SMS / SMS za Cheka.
+1002	Vifurushi vya SMS vinakuwezesha kufurahia SMS nyingi bila kikomo kulingana na kifurushi ulichonunua (siku/wiki au mwezi).
+1003	Vifurushu vya RED ni kwa matumizi ya Tanzania tu.
+1004	Vigezo na masharti haya vinaweza kupunguza na kuondoa haki na stahiki zako dhidi ya promota na kuweka wajibu na majukumu ya kisheria juu yako.
+1005	Vigezo na Masharti vya Miaka 10 ya M-Pesa.
+1006	Vigezo na Masharti ya Shindano la TUSUA MAPENE.
+1007	Vinaweza kuwa vyenye dakika au MB au vyenye dakika na MB.
+1008	Vinginevyo, programu ya zamani itazimwa na mtumiaji atastahili kupakua toleo jipya la programu ikiwa wanataka kuendelea kutumia programu ya M-Pesa.
+1009	Vinginevyo, ukirudisha OS yako kutoka kwenye hifadhi yake, utahitajika kupakua upya programu ya M-Pesa kwa kuingiza namba yako, msimbo wa kuthibitisha na PIN yako ya M-Pesa.
+1010	Visehemu tofauti pia zitapata zawadi tofauti nazo ni Base, Pindua Pindua na Red.
+1011	Viwango (tier) vitatumika kwenye kuamisha miamala ya M-PESA, yaani, mtu anaweza kutuma hadi Ksh 70,000 kwa muamala na hadi Ksh 140,000 kwa siku; Mpokeaji lazima awe mteja Safaricom M-Pesa aliyesajiliwa kikamilifu.
+1012	Viwango vinavyofuata vinatumika kwa miamala ya mteja wa M-Pesa kama Sheria ya Taifa ya Mfumo wa Malipo ya 2015 - Kanuni za Fedha za umeme zilizotolewa na BoT.
+1013	Viwango vya juu na chini vya mkopo ni vipi?
+1014	Viwango vya kikomo vya M-Pesa vitatumika.
+1015	Viwango vya kupiga na kutuma meseji kimataifa India, China, Canada, USA.
+1016	Vodacom Biashara inaongoza kwa kutoa fumbuzi mbalimbali kwenye mawasiliano zinazokidhi mahitaji ya wateja, zinazoendeshwa kiteknolojia, kwa gharama nafuu, na kwa ubunifu katika thamani ya hali ya juu.
+1017	Vodacom Biashara inashirikiana na biashara za aina zote kuwapa huduma zinazowawezesha na kuwapa uwezo wa kujenga biashara zao zaidi.
+1018	Vodacom Biashara inashirikiana na kampuni zenye ukubwa wa kati kuwapa huduma zinazowasaidia kutimiza malengo.
+1019	Vodacom Biashara inatoa huduma kwa biashara ndogondogo na kupitia teknolojia za kisasa wanawawezesha kukuza biashara zao.
+1020	Vodacom Biashara pia inatoa huduma zilizojitosheleza za aplikesheni za ndani ukijumuisha za kawaida na maalumu kwaajili ya aplikesheni muhimu na hifadhi za nakala pamoja na za ziada na urejesho wa huduma kutoka kwenye maafa mbalimbali.
+1021	Vodacom Business inahakikisha kwamba Biashara yako imeunganishwa wakati wote na mtandao wa 4G, wenye kasi zaidi kwa mawasiliano ya kuaminika.
+1022	Vodacom Business inashirikiana na kampuni zenye ukubwa wa kati kuwapa huduma zinazowasaidia kutimiza malengo.
+1023	Vodacom Business inatoa huduma kwa biashara ndogondogo na kupitia teknolojia za kisasa wanawawezesha kukuza biashara zao.
+1024	Vodacom Business inawapa teknolojia za kisasa zinazowapa huduma za kuwawezesha zaidi.
+1025	Vodacom, CCBRT waungana kutokomeza fistula Katika kuunga mkono na kuongeza nguvu juhudi za kutokomeza fistula nchini, Taasisi ya..
+1026	Vodacom, CCBRT waungana kutokomeza fistula Katika kuunga mkono na kuongeza nguvu juhudi za kutokomeza fistula nchini, Taasisi ya Vodacom Tanzania..
+1027	Vodacom Connected Car ni huduma inayotoa suluhisho zaidi ya kufuatilia gari lako lilipo.
+1028	Vodacom Group (Pty) Limited inamiliki sehemu kubwa kiasi cha asilimia 65 na asilimia 35 iliyobaki inamilikiwa na mbia wa Tanzania, moja Mirambo Ltd.
+1029	Vodacom Group (Pty) Limited inamiliki sehemu kubwa kiasi cha asilimia 65% na asilimia 35% iliyobaki inamilikiwa na mbia wa Tanzania, moja Mirambo Ltd.
+1030	Vodacom imekuwa kinara kwa kuanzisha bidhaa na huduma za kipekee huku wengine wakifuatisha.
+1031	Vodacom inakuletea huduma ya mfumo wa mawasiliano ya vifaa au mashine kwa mashine(M2M).
+1032	Vodacom ina nia ya kukabiliana na kutatua masuala yote yaliyowasilishwa na wateja wake.
+1033	Vodacom itakuwa na uhuru wa kubadilisha masharti haya wakati wowote na kumjulisha mteja.
+1034	Vodacom itatangaza raffo kwa wateja kupitia ujumbe mfupi katika msimu wa usajili wa mteja.
+1035	Vodacom itatuma sehemu ya riba kwa wateja moja kwa moja kwenye Akaunti ya M-Pesa ya mteja.
+1036	Vodacom itaweza kurekebisha muamala ikiwa fedha bado haijatumika katika akaunti ya mpokeaji na mpokeaji anapokea ombi la kurejesha.
+1037	Vodacom kwa kushirikiana na Mastercard® pamoja na BancABC tumekuletea kadi ya kwanza na ya pekee Tanzania inayokuwezesha kununua huduma na bidhaa kutoka kwa wafanyabiashara waliopo duniani kote kupitia M-Pesa.
+1038	Vodacom M-Pesa Ilianzishwa mwezi Aprili, 2008, na imekuwa ikifikia kila kona ya Tanzania tangu wakati huo.
+1039	Vodacom M-Pesa ni huduma ya kipekee iliyofanya mapinduzi Tanzania kwenye sekta ya fedha kwa kumuwezesha Mtanzania kutuma na kupokea fedha mahala popote Tanzania nzima kupitia simu ya mkononi.
+1040	Vodacom, mtandao supa pekee Tanzania unakuweka karibu zaidi na jamaa waliopo Kenya kupitia M-PESA.
+1041	Vodacom Tanzania ikiwa ni kampuni inayoongoza katika soko kwa kuwa na wateja millioni 13 inahakikisha kwamba wateja wote wanapata huduma bora kupitia watoa huduma (call center), maduka, madawati ya kutoa huduma na mitandao ya kijamii.
+1042	Vodacom Tanzania imekuwa kiongozi katika soko kwa sababu nyingi sana.
+1043	Vodacom Tanzania itaongeza ufahamu wa wateja kwa programu ya M-Pesa halali.
+1044	Vodacom Tanzania ni tawi la Vodacom Group (Pty) Limited, Afrika Kusini ambayo pia ni tawi la Vodafone Group UK.
+1045	Vodacom Tanzania ni zaidi ya kampuni ya simu za mkononi, kwa miaka iliyopita imekuwa ikitoa fumbuzi mbalimbali za huduma kwa wateja.
+1046	Vodacom Tanzania pia itafuatilia kikamilifu Hifadhi ya Google Play na maeneo mengine kwa Programu za M-Pesa za udanganyifu, na kuchukua hatua ili kuhakikisha upatikanaji wa wateja wa kupakua umezuiwa.
+1047	Vodacom Tanzania yajipanga kuzindua huduma ya kutunza pesa kwa..
+1048	Vodacom yarahisisha VICOBA kuweka akiba kidijitali Katika jitihada za kurahisisha shughuli za vikundi vidogo vya kutunza akiba, Vodacom..
+1049	Vodacom yarahisisha VICOBA kuweka akiba kidijitali Katika jitihada za kurahisisha shughuli za vikundi vidogo vya kutunza akiba, Vodacom Tanzania PLC kwa..
+1050	VThere yamekuwa maelfu ya masomo ya kisayansi katika madhara ya mashamba ya redio (RF) kwenye afya.
+1051	Wacha watoto wasome bila usumbufu.
+1052	Wafanyabiashara wapya na wa zamani wana nafasi ya kushinda kwenye promosheni hii Iwapo tu wanatumia M-Pesa ndani ya kipindi cha promosheni.
+1053	Wafanyakazi hao wametoa vifaa kama vile; viti maalum, magongo ya kutembelea, magongo ya kusimamia, mashine za uzito, viatu vya ‘Special Orthopedics’, vitanda vya watoto walemavu, mashine za kufulia nk. ambavyo ni mahitaji muhimu kwa watoto hao.
+1054	Wafanyakazi wa Vodacom ni sehemu muhimu ya kile tunachofanya kwenye misingi ya Vodacom ya jamii ikiwemo kuwahimiza kutoa muda na nyenzo mbalimbali zilizo ndani ya uwezo wao kusaidia matatizo yalio karibu nao.
+1055	Wakala wa M-Pesa atafanya malipo kupitia simu yake ya uwakala.
+1056	Wakala wa usajili watachukua picha yako halisi kupitia vifaa maalumu, mbele ya kitambulisho chako, Nyuma ya Kitambulisho na kujaza maelezo ya maandishi kwenye fomu ya elektroniki katika programu.
+1057	Wakati wa kununua kifurushi, mteja anaweza kuchagua kununua kifurushi mara moja au kwa kujirudia.
+1058	Wakati wanaingia kwenye programu mpya watakuwa na fursa ya kuruka utangulizi ikiwa ni lazima.
+1059	Wakulima wadogo wa Afrika Mashariki wanachangia zaidi ya 70% ya pato litokanalo na kilimo wa kilimo tenaa wakiwa na chini ya hekta 2 kwa kila mmoja.
+1060	Walezi wengine pia walionyesha kufurahishwa na kushukuru kwa zawadi zitakazo wasaidia katika malezi ya watoto hao kwani wengi wao wametoka familia zenye duni.
+1061	Wanasayansi na viongozi wa afya ya umma hutathmini hatari kwa afya ya binadamu kulingana na mwili mzima wa ushahidi, badala ya masomo ya kisayansi ya mtu binafsi.
+1062	Wanasayansi wanajua zaidi kuhusu hili kuliko wanavyofanya kuhusu kemikali nyingi.
+1063	Wanatakiwa wawe na simu/modem zenye uwezo wa 4G zikiwa na laini za 4G.
+1064	Wanawake wenye fistula wana changamoto kubwa ya kutengwa katika jamii zao na wengi wao hawatambui kama hali hii inatibika kutokana na ukosefu wa elimu na taarifa.
+1065	Washindi 10- Droo ya wateja.
+1066	Washindi wanaweza kukataa majina,picha na sura zao kutumiwa na promota kwenye matangazo.
+1067	Washiriki watakuwa na uhuru wa kujiondoa na kuacha kupokea mawasiliano hayo, ambayo inaweza kufanyika kupitia njia ambayo mawasiliano hayo yamepokelewa.
+1068	Washiriki wote(pamoja na washindi) wanatamka hadharani kuwa hawatakuwa na madai dhidi ya promota kuhusuiana na promosheni hii au madai yoyote yatakayotokana na sababu zilizotajwa hapo juu.
+1069	Wasiliana na wateja wako au pata taarifa muhimu za mwenendo wa biashara na huduma zetu kwa mkataba wa miezi 24. Kupata huduma hii tutumie maombi yako kwenda business@vodacom.
+1070	Wateja ambao watanunua kifurushi cha mara moja hawataweza kuhamisha dakika, MB au SMS ambazo hakutumika pale muda wa matumizi wa kifurushi unapokwisha.
+1071	Wateja atapokea ujumbe wa mwangwi unaoonyesha kiasi cha fedha ambacho kinahitaji kutumwa kwa mpokeaji ili kupokea kiwango kilichoonyeshwa.
+1072	Wateja hawana makato yoyote watumiapo huduma ya LIPA KWA M-PESA.
+1073	Wateja hawapaswi kutoa au kuonyesha mtu yeyote PIN (Namba yako ya siri ya M-Pesa), ikiwa ni pamoja na familia na marafiki wanaojulikana na kuaminika, mawakala wa M-Pesa au wawakilishi wa huduma ya wateja wa Vodacom.
+1074	Wateja HAWAPASWI kutumia fedha hizo.
+1075	Wateja hulipa ada yoyote ya kila mwezi kwa kuwa na akaunti ya M-Pesa?
+1076	Wateja hutuma SMS yenye neno AMOUNT au KIASI kwenda 15300 na atapokea SMS ya kiasi halisi ambacho utapata.
+1077	Wateja waliojiunga na vifurushi vya RED ndio watakaofaidika na manufaa yote yatokanayo na RED.
+1078	Wateja wanapaswa kuchunguza kwa umakini wapi unatuma na kiasi kabla ya uthibitisho.
+1079	Wateja wanapaswa kuwasiliana na benki yake kwa msaada.
+1080	Wateja wanashauriwa kuangalia mara kadhaa huduma hii kabla ya kupakua na kuingiza PIN.
+1081	Wateja wanashauriwa kuomba kurejeshewa fedha walizofanya kimakosa mapema iwezekanavyo ili kuona uwezekano wa kurejesha kwa mafanikio.
+1082	Wateja wanashauriwa kuwasiliana na mpokeaji moja kwa moja ili kurejesha fedha hizo.
+1083	Wateja wanatozwa Tsh 18.1 kwa sekunde 20 (kutoka akaunti yao ya hewani) wakati wa kupata huduma za simu benki.
+1084	Wateja wanaweza kuangalia viwango vya kubadilishana fedha kabla ya kutuma fedha kwa Safaricom Kenya?
+1085	Wateja wanaweza kujua / angaliaje gawio lao la M-Pesa faida?
+1086	Wateja wanaweza kulipa bili zao, ikiwa ni pamoja na kodi, ada na vinginevyo bila haja ya kujipanga katika mistari.
+1087	Wateja wanaweza kulipa bili zao, ikiwa ni pamoja na kodi, ada na vinginevyo bila kusubiri kwenye foleni.
+1088	Wateja wanaweza kulipa bili zao kwa makampuni makubwa na huduma za jamii kwa njia ya m-pesa, kwa urahisi na kwa haraka, bila ya kusafiri kwenda kwa mtoa huduma au kupanga foleni.
+1089	Wateja wanaweza kuomba kurejeshewa miamala yoyote iliyofanywa nao wakati wowote?
+1090	Wateja wanaweza kutafuta msaada kutoka kwa Mashirika ya Utekelezaji wa Sheria.
+1091	Wateja wanaweza piga kura mara moja tu katika kila raundi.
+1092	Wateja wataalikwa muda kwa muda kupigia kura mchezaji maarufu wa SOKA LETU.
+1093	Wateja watakaokuwa wameshinda kwenye droo ya wiki watapigiwa simu kwa kutumia namba maalumu ya Vodacom.
+1094	Wateja watapata nafasi kushinda zawadi tofauti muda kwa muda kutoka SOKA LETU ikilingana na sehemu ya wateja waliopo.
+1095	Wateja wa Vodacom M-Pesa wanaweza kupata pesa kutoka nje ya nchi kupitia uhamisho wa Fedha wa kimataifa Moneygram, moja kwa moja kwenye akaunti zao za M-Pesa.
+1096	Wateja wa Vodacom sasa wanaweza kukidhi mahitaji yao yote ya mawasiliano kupitia mtandao wa intaneti, aplikesheni za ndani kwa mtoa huduma mmoja.
+1097	Wateja wa Vodacom wanaweza kutuma pesa kutoka popote walipo duniani wakati wote wanapoweza kutumia M-Pesa, na kuwa na uunganisho wa mtandao.
+1098	Wateja wengine si lazima wasajiliwe M-Pesa ili kupokea muda wa hewani kutoka kwako.
+1099	Wateja wote wa Vodacom wanastahili kujiunga na huduma ya SOKA LETU.
+1100	Wateja wote wa Vodacom wanaweza kutumia Aplikesheni ya Vodacom.
+1101	Watoa maamuzi watapata taarifa ya matukio paop papo na wanaweza kutoa mrejesho muda huo huo.
+1102	Watumaji wanapaswa kutambua kuwa kiasi halisi cha malipo ndio kitarejeshwa.
+1103	Watumiaji wanaweza kuendelea kutumia toleo la programu ya zamani ikiwa hakuna mabadiliko ya lazima katika toleo jipya la programu.
+1104	Watu muhimu ni:-
+1105	Wekesha kidogo kidogo upate simu uipendayo.
+1106	Wewe hapa pia unakubali taarifa zako binafsi na taarifa zako za M-PESA kutolewa/kufichuliwa na Vodacom kwa Benki kwa matumizi yalihainishwa hapo awali na Benki.
+1107	Wewe kwa gharama yako mwenyewe utakayoingia na kuendelea kwa kuitumia kwa usalama na ufanisi Vifaa vyako muhimu kwa kusudi la kupata Mfumo na Huduma.
+1108	Wewe na mfanyabiashara mtapokea SMS papo papo kuthibitisha muamala.
+1109	Wewe unakubaliana kulipa malipo yote ya miamala inayoambatana nakuhusiana na matumizi yako ya Huduma.
+1110	Wewe unakubaliana na kuidhinisha Benki ili kupokea na kupata maelezo yako binafsi yaliyomo kwenye ETS kutoka Vodacom Tanzania na zaidi ya yote unakubali na kuidhinisha kutolewa taarifa binafsi bila masharti na Vodacom Tanzania.
+1111	Yafuatayo ni muhimu kuhakikisha usajili wako unakuwa kamilifu.
+1112	Yeye anaweza tu kupata fedha kutoka kwa wakala wa M-Pesa ndani ya siku 7, lakini hawezi kuanzisha miamala yoyote ya M-Pesa.
+1113	Zaidi ya hayo unatambua na kukubali kuwa kituo cha Huduma ya Wateja si tawi la Benki au Wakala wa Benki kwa madhumuni ya kufanya biashara au miamala ya Benki na haitakuwa hivyo.
+1114	Zawadi hizi zitawasaidia watoto hawa katika maisha yao ya kila siku”.
+1115	Zawadi kuu za kila wiki.
+1116	Zawadi mbalimbali zitatolewa kwa wateja waliojiunga na kulipia gharama ya huduma ya SOKA LETU na watapata pointi zaidi zitakazowaongezea nafasi ya ushindi kwa kumpigia kura mchezaji wamendae.
+1117	TMA yatabiri mvua kubwa kwa siku tano mfululizo mikoa nane: Kama unaishi mikoa ya Morogoro, Lindi, Iringa, Mtwara, Mbeya, Songwe, Njombe na Ruvuma basi kaa mguu sawa kwani Mamlaka ya Hali ya Hewa Tanzania (TMA) imetoa angalizo ya uwepo wa hali mbaya ya hewa kwa siku tano.
+1118	Utabiri huo unakuja siku chache tangu baadhi ya mikoa kama Dar es Salaam na Morogoro kushuhudia mvua kubwa iliyoathiri miundombinu na kusababisha vifo. Utabiri huo wa TMA umetolewa leo Januari 29,2024 utaanza kesho Januari 30 na utadumu hadi Februari 2 mwaka huu. “Angalizo la mvua kubwa limetolewa katika maeneo machache ya mikoa ya Morogoro, Lindi, Mtwara, Iringa, Mbeya, Songwe, Njombe na Ruvuma,”iliandikwa taarifa hiyo. Wakazi katika mikoa hiyo watashuhudia athari ya makazi yao kuzungukwa na maji, pamoja na kuathirika kwa baadhi ya shughuli za kiuchumi.
+1119	“Kuna changamoto kidogo ya usafiri. Hatukufanikiwa kupata tiketi za timu nzima kwa mara Moja kwahiyo walioanza kuwasili nchini jana ni wachezaji na viongozi 15.” “Kuna baadhi yao watafika leo wengine kesho. Pia kuna wachezaji ambao wamerejea Moja kwa Moja kwenye nchi ambako timu zao wanazochezea” Gerson Msigwa, Katibu Mkuu wizara ya Utamaduni,sanaa na Michezo.
+
