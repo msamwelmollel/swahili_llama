@@ -44,8 +44,7 @@ for filename in os.listdir(directory_path):
         print('Number of tokens:', token_count)
         print('Number of Total tokens:', total_token)
         print(["*"]*10)
-            # content = file.read()
-            # all_texts.append(content)
+
 
 # At this point, all_texts contains the contents of all text files in the folder
 # file_names = ["C:\\Users\\msamwelmollel\\Documents\\GitHub\\swahili_llama\\corpora\\swa_community_2019-sentences.txt"]  # List of file names
