@@ -8,6 +8,10 @@
 To enhance the use of Large language models for Swahili content, We have created this repository, which aims to provide the code for Swahili-LLaMA - an LLM model based on the open-source LLaMA-2. Our approach includes expanding the vocabulary from the original 32K in LLaMA-2 to 49K in this initial version. We use LoRA for continued pretraining of the model, and the results in this current repository are at checkpoint 50% of 500M tokens based on LLaMA-2.  A comprehensive technical report and the final model at the 100% checkpoint—which promises even greater optimization—will be published shortly. This model demonstrates superior performance in Swahili text generation and is suitable for use with Retrieval-Augmented Generation (RAG) frameworks.
 
 
+## Usage Note
+This initial version of the model has not gone through detoxification or alignment with human evaluative criteria. For now, it is meant only for research purposes. Once supervised training and model alignment are complete, we expect later versions will show improvements in areas like reducing hallucinations and harmful or offensive content generation. The goal is to enhance performance in ways that address ethical concerns before releasing for other types of applications. However, as an unfinished product, all current model outputs should be considered experimental and interpreted with caution by researchers.
+
+
 ## Contributions
 
 We welcome contributions to this project. If you have suggestions or improvements, please open an issue or a pull request.
