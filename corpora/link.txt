@@ -1,5 +1,0 @@
-1. https://wortschatz.uni-leipzig.de/en/download/Swahili%20(macrolanguage)#swa_community_2017
-
-
-2. https://data.statmt.org/cc-100/
-2. evaluation on dataset: https://huggingface.co/Davlan/bert-base-multilingual-cased-finetuned-swahili/blame/main/README.md
