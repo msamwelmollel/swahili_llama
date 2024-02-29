@@ -30,7 +30,7 @@ This initial version of the model has yet to go through detoxification or alignm
 
 | Model                    | Type                        | Data              | Base Model           | # Params | Download Links                                                         |
 |--------------------------|-----------------------------|-------------------|----------------------|------|------------------------------------------------------------------------|
-| Swahili LLaMA 7B Base      | Base model                  | 12GB              | LLaMA 7B             | 7B   | [HF Hub](https://huggingface.co/abhinand/tamil-llama-7b-base-v0.1)     |
+| Swahili LLaMA 7B Base      | Base model                  | 12GB              | LLaMA 7B             | 7B   | [HF Hub](https://huggingface.co/abhinand/tamil-llama-7b-base-v0.1) [Kaggle](https://www.kaggle.com/models/mikemollel/new-model-swahili)    |
 | Swahili LLaMA 13B Base     | Base model                  | 4GB               | LLaMA 13B            | 13B  | [HF Hub](https://huggingface.co/abhinand/tamil-llama-13b-base-v0.1)    |
  
 
