@@ -65,4 +65,4 @@ If you use this model in your research, please cite:
 
 ## Contact
 
-Please don't hesitate to contact Michael Mollel at msamwelmollel@gmail.com for any questions about the codebase or research. Also I am providing consultation and developing AI solution and service for companies. 
+If you have any questions about the codebase or research, please don't hesitate to contact me, Michael Mollel, at msamwelmollel@gmail.com. In addition to my research, I also offer AI consulting and development services for companies - so reach out if you are looking for customized AI solutions. Whether you need clarification on my projects or want to discuss a potential collaboration, I welcome the conversation and opportunity to work together. Please email me so we can determine if my expertise matches your needs.
