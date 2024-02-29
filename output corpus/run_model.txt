@@ -1,1 +1,0 @@
-python train.py --input-file "C:\\Users\\msamwelmollel\\Documents\\GitHub\\swahili_llama\\input corpus\\inputfile.txt" --output-dir "C:\\Users\\msamwelmollel\\Documents\\GitHub\\swahili_llama\\output corpus"
