@@ -7,6 +7,11 @@
 
 To enhance the use of Large language models for Swahili content, We have created this repository, which aims to provide the code for Swahili-LLaMA - an LLM model based on the open-source LLaMA-2. Our approach includes expanding the vocabulary from the original 32K in LLaMA-2 to 49K in this initial version. We use LoRA for continued pretraining of the model, and the results in this current repository are at checkpoint 50% of 500M tokens based on LLaMA-2.  A comprehensive technical report and the final model at the 100% checkpoint—which promises even greater optimization—will be published shortly. This model demonstrates superior performance in Swahili text generation and is suitable for use with Retrieval-Augmented Generation (RAG) frameworks.
 
+## Idea
+This work has been self-funded with limited resources, relying on my finances and some computational (2-A6000 GPU) space provided by the AIDLab at UDOM. Given constraints, further development is dependent on external support. If you find this project on Swahili AI worthwhile, please consider a small donation via Buy Me A Coffee to fuel continued progress [buying me a coffee](https://www.buymeacoffee.com/mollel). Any contributions would be invaluable and greatly appreciated by myself and others who could benefit. My goal has always been to enable underserved communities by providing open access. With your backing, I hope to move this effort forward so its social impact may be fully realized. 
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mollel)
+
 
 ## Usage Note
 This initial version of the model has yet to go through detoxification or alignment with human evaluative criteria. For now, it is meant only for research purposes. Once supervised training and model alignment is complete, we expect later versions will show improvements in areas like reducing hallucinations and harmful or offensive content generation. The goal is to enhance performance to address ethical concerns before releasing for other applications. However, as an unfinished product, all current model outputs should be considered experimental and interpreted with caution by researchers.
