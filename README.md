@@ -9,7 +9,31 @@ To enhance the use of Large language models for Swahili content, We have created
 
 
 ## Usage Note
-This initial version of the model has not gone through detoxification or alignment with human evaluative criteria. For now, it is meant only for research purposes. Once supervised training and model alignment are complete, we expect later versions will show improvements in areas like reducing hallucinations and harmful or offensive content generation. The goal is to enhance performance in ways that address ethical concerns before releasing for other types of applications. However, as an unfinished product, all current model outputs should be considered experimental and interpreted with caution by researchers.
+This initial version of the model has yet to go through detoxification or alignment with human evaluative criteria. For now, it is meant only for research purposes. Once supervised training and model alignment is complete, we expect later versions will show improvements in areas like reducing hallucinations and harmful or offensive content generation. The goal is to enhance performance to address ethical concerns before releasing for other applications. However, as an unfinished product, all current model outputs should be considered experimental and interpreted with caution by researchers.
+
+## Table of Contents
+
+
+- [Available Models](#available-models)
+- [Benchmark Scores](#benchmark-scores)
+- [Demo](#demo)
+- [Getting Started](#getting-started)
+- [Datasets](#datasets)
+- [Prompting Format](#prompting-format-for-instruction-models)
+- [Usage Note](#usage-note)
+- [Contributions](#contributions)
+- [License](#license)
+- [Citation](#citation)
+- [Contact](#contact)
+
+## Available Models
+
+| Model                    | Type                        | Data              | Base Model           | # Params | Download Links                                                         |
+|--------------------------|-----------------------------|-------------------|----------------------|------|------------------------------------------------------------------------|
+| Swahili LLaMA 7B Base      | Base model                  | 12GB              | LLaMA 7B             | 7B   | [HF Hub](https://huggingface.co/abhinand/tamil-llama-7b-base-v0.1)     |
+| Swahili LLaMA 13B Base     | Base model                  | 4GB               | LLaMA 13B            | 13B  | [HF Hub](https://huggingface.co/abhinand/tamil-llama-13b-base-v0.1)    |
+| Swahili LLaMA 7B Instruct  | Instruction following model | 145k instructions | Tamil LLaMA 7B Base  | 7B   | [HF Hub](https://huggingface.co/abhinand/tamil-llama-7b-instruct-v0.1) |
+| Swahili LLaMA 13B Instruct | Instruction following model | 145k instructions | Tamil LLaMA 13B Base | 13B  | [HF Hub](abhinand/tamil-llama-13b-instruct-v0.1)   
 
 
 ## Contributions
