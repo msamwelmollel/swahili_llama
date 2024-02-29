@@ -32,7 +32,14 @@ This initial version of the model has yet to go through detoxification or alignm
 |--------------------------|-----------------------------|-------------------|----------------------|------|------------------------------------------------------------------------|
 | Swahili LLaMA 7B Base      | Base model                  | 2GB              | LLaMA 7B             | 7B   | [HF Hub](https://huggingface.co/Mollel/swahili_LLaMA_7Bv0.1), [Kaggle](https://www.kaggle.com/models/mikemollel/new-model-swahili)    |
 | Swahili LLaMA 13B Base     | Base model                  | 2GB               | LLaMA 13B            | 13B  | [Soon]    |
- 
+
+
+### Quantized Version of Available Models
+
+| Model                    | Format | Bits                 | Download Links                                                               |
+|--------------------------|--------|----------------------|------------------------------------------------------------------------------|
+| Tamil LLaMA 7B Base      | GGUF   | Q8_0 | [HF Hub](https://huggingface.co/Mollel/swahili_LLaMA_7Bv0.1_GGUF)      |
+| Tamil LLaMA 13B Base     | GGUF   | Q8_0 | [Soon]     |
 
 
 ## Contributions
