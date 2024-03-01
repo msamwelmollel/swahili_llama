@@ -1,0 +1,9 @@
+Train
+python train.py --input-file "C:\\Users\\msamwelmollel\\Documents\\GitHub\\swahili_llama\\input corpus\\inputfile.txt" --output-dir "C:\\Users\\msamwelmollel\\Documents\\GitHub\\swahili_llama\\output corpus"
+
+Test 
+python test.py --model-path "C:\\Users\\msamwelmollel\\Documents\\GitHub\\swahili_llama\\scripts\\train\\sentencepiece\\models\\swahili_sp.model" --input-text "baba yangu ni mkubwa wa familia yetu hii"
+
+
+merge
+python merge_tokenizer.py --llama_tokenizer_dir "C:\\Users\\msamwelmollel\\Documents\\togethor-llama2"
