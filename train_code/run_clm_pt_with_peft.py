@@ -554,9 +554,9 @@ def main():
             f"The combination of base model (size: {model_vocab_size}) and tokenizer (size: {len(tokenizer)}) is not a valid configuration. Please check our project wiki for further information. \n"
             "Valid configurations (base model / tokenizer):\n"
             "- Continue pre-training original LLaMA: 32000 / 32000 \n"
-            "- Pre-training Chinese LLaMA based on original LLaMA: 32000 / 49953 \n"
-            "- Continue pre-training Chinese LLaMA: 49953 / 49953 \n"
-            "- Continue pre-training Chinese Alpaca: 49954 / 49954 \n")
+            "- Pre-training Swahili LLaMA based on original LLaMA: 32000 / 49953 \n"
+            "- Continue pre-training Swahili LLaMA: 49953 / 49953 \n"
+            "- Continue pre-training Swahili Alpaca: 49954 / 49954 \n")
 
     model.resize_token_embeddings(len(tokenizer))
     if training_args.peft_path is not None:
