@@ -1,0 +1,8 @@
+
+There are three environment made in this folder
+
+1. base env is for training purpose
+
+2. second (run_fine_tune) this is for the purpose of merging llama and LORA
+
+3. the thirdone is the SFT the model
