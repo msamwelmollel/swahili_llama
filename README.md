@@ -13,23 +13,21 @@ This work has been self-funded with limited resources, relying on my finances an
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mollel)
 
 
-## Usage Note
-This initial version of the model has yet to go through detoxification or alignment with human evaluative criteria. For now, it is meant only for research purposes. Once supervised training and model alignment is complete, we expect later versions will show improvements in areas like reducing hallucinations and harmful or offensive content generation. The goal is to enhance performance to address ethical concerns before releasing for other applications. However, as an unfinished product, all current model outputs should be considered experimental and interpreted with caution by researchers.
+
 
 ## Table of Contents
 
-
+- [Usage Note](#usage-note)
 - [Available Models](#available-models)
-- [Benchmark Scores](#benchmark-scores)
-- [Demo](#demo)
-- [Getting Started](#getting-started)
 - [Datasets](#datasets)
 - [Prompting Format](#prompting-format-for-instruction-models)
-- [Usage Note](#usage-note)
 - [Contributions](#contributions)
 - [License](#license)
 - [Citation](#citation)
 - [Contact](#contact)
+
+## Usage Note
+This initial version of the model has yet to go through detoxification or alignment with human evaluative criteria. For now, it is meant only for research purposes. we expect later versions will show improvements in areas like reducing hallucinations and harmful or offensive content generation and text generation. Current model outputs should be considered experimental and interpreted with caution by researchers.
 
 ## Available Models
 
@@ -62,7 +60,6 @@ In this repository, I have included a Swahili-translated version of the Alpaca d
 ```
 <s>[INST] {prompt} [/INST]
 ```
-
 
 
 ## Contributions
