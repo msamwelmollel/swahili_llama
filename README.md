@@ -75,18 +75,9 @@ This project is licensed under the GNU GPL v3.0 license - see the [LICENSE.md](L
 
 ## Citation
 
-If you use this model in your research, please cite:
+If you use this model in your research, please cite: Soon
 
-```bibtex
-@misc{michaelmollelllama,
-      title={Swahili-Llama: A Conversation Large Language Model for Swahili Use Cases and RAG}, 
-      author={},
-      year={2024},
-      eprint={},
-      archivePrefix={},
-      primaryClass={}
-}
-```
+
 
 
 ## Contact
