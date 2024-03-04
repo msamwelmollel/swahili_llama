@@ -49,6 +49,26 @@ This initial version of the model has yet to go through detoxification or alignm
 | Swahili LLaMA 7B Instruct      | GGUF   | Q5_K_M | [HF Hub](https://huggingface.co/Mollel/swahili-Instruct-llama-2-7b-GGUF/blob/main/swahili-instruct-llama-2-7b.Q5_K_M.gguf)      |
 | Swahili LLaMA 13B Base     | GGUF   | Q8_0 | [Soon]     |
 
+## Datasets
+
+In this repository, I have included a Swahili-translated version of the Alpaca dataset. This dataset has been used for instruction fine-tuning in the current experiments. However, it's important to note that as of now, we have not performed any formal evaluation of the fine-tuned models. Evaluation will be conducted once we complete the experiments with the 13B parameter model. The evaluation results and analysis will be included in future updates to this repository.
+
+**Swahili Alpaca Credit**: [iamshnoo/alpaca-cleaned-swahili](https://huggingface.co/datasets/iamshnoo/alpaca-cleaned-swahili)
+
+## Prompting Format for Instruction Models
+
+**Prompt Template Without Input**
+
+```
+<s>[INST] {prompt} [/INST]
+```
+
+
+
+## Usage Note
+
+It's important to note that the models have not undergone detoxification. Therefore, while they possess impressive linguistic capabilities, there is a possibility for them to generate content that could be deemed harmful or offensive. We urge users to exercise discretion and supervise the model's outputs closely, especially in public or sensitive applications.
+
 
 ## Contributions
 
