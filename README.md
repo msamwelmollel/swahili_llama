@@ -43,8 +43,10 @@ This initial version of the model has yet to go through detoxification or alignm
 
 | Model                    | Format | Bits                 | Download Links                                                               |
 |--------------------------|--------|----------------------|------------------------------------------------------------------------------|
-| Tamil LLaMA 7B Base      | GGUF   | Q8_0 | [HF Hub](https://huggingface.co/Mollel/swahili_LLaMA_7Bv0.1_GGUF)      |
-| Tamil LLaMA 13B Base     | GGUF   | Q8_0 | [Soon]     |
+| Swahili LLaMA 7B Base      | GGUF   | Q8_0 | [HF Hub](https://huggingface.co/Mollel/swahili_LLaMA_7Bv0.1_GGUF)      |
+| Swahili LLaMA 7B Base      | GGUF   | Q8_0 | [HF Hub](https://huggingface.co/Mollel/swahili_LLaMA_7Bv0.1_GGUF)      |
+| Swahili LLaMA 7B Base      | GGUF   | Q8_0 | [HF Hub](https://huggingface.co/Mollel/swahili_LLaMA_7Bv0.1_GGUF)      |
+| Swahili LLaMA 13B Base     | GGUF   | Q8_0 | [Soon]     |
 
 
 ## Contributions
