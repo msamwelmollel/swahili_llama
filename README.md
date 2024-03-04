@@ -65,11 +65,6 @@ In this repository, I have included a Swahili-translated version of the Alpaca d
 
 
 
-## Usage Note
-
-It's important to note that the models have not undergone detoxification. Therefore, while they possess impressive linguistic capabilities, there is a possibility for them to generate content that could be deemed harmful or offensive. We urge users to exercise discretion and supervise the model's outputs closely, especially in public or sensitive applications.
-
-
 ## Contributions
 
 We welcome contributions to this project. If you have suggestions or improvements, please open an issue or a pull request.
