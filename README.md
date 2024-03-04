@@ -44,7 +44,7 @@ This initial version of the model has yet to go through detoxification or alignm
 | Model                    | Format | Bits                 | Download Links                                                               |
 |--------------------------|--------|----------------------|------------------------------------------------------------------------------|
 | Swahili LLaMA 7B Base      | GGUF   | Q8_0 | [HF Hub](https://huggingface.co/Mollel/swahili_LLaMA_7Bv0.1_GGUF)      |
-| Swahili LLaMA 7B Base      | GGUF   | Q8_0 | [HF Hub](https://huggingface.co/Mollel/swahili_LLaMA_7Bv0.1_GGUF)      |
+| Swahili LLaMA 7B Base      | GGUF   | Q4_K_M | [HF Hub](https://huggingface.co/Mollel/swahili-Instruct-llama-2-7b-GGUF/blob/main/swahili-instruct-llama-2-7b.Q4_K_M.gguf)      |
 | Swahili LLaMA 7B Base      | GGUF   | Q8_0 | [HF Hub](https://huggingface.co/Mollel/swahili_LLaMA_7Bv0.1_GGUF)      |
 | Swahili LLaMA 13B Base     | GGUF   | Q8_0 | [Soon]     |
 
